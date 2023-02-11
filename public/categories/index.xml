@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Wege i nie</title>
+    <link>https://wegeinie.github.io/categories/</link>
+    <description>Recent content in Categories on Wege i nie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl</language>
+    <lastBuildDate>Thu, 09 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://wegeinie.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>pieczywo</title>
+      <link>https://wegeinie.github.io/categories/pieczywo/</link>
+      <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://wegeinie.github.io/categories/pieczywo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>śniadanie</title>
+      <link>https://wegeinie.github.io/categories/%C5%9Bniadanie/</link>
+      <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://wegeinie.github.io/categories/%C5%9Bniadanie/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
