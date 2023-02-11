@@ -2,7 +2,7 @@
 # Version : 0.5.3-BETA
 # Author : Thibaud Leprêtre
 
-baseURL = "https://wegeinie.github.io"
+baseURL = "https://wegeinie.github.io/"
 languageCode = "pl"
 defaultContentLanguage = "pl"
 title = "Wege i nie"
