@@ -2,7 +2,7 @@
 title: "Zupa krem z pieczonej marchewki"
 date: 2023-02-13
 categories:
-- Zupy
+- zupy
 tags:
 - marchew
 - mleko kokosowe
