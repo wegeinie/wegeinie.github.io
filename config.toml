@@ -78,7 +78,7 @@ canonifyurls = true
   identifier = "instagram"
   name = "Instagram"
   pre = "<i class=\"sidebar-button-icon fab fa-lg fa-instagram\" aria-hidden=\"true\"></i>"
-  url = "https://www.instagram.com/katarzynazajecka/"
+  url = "https://www.instagram.com/wege_i_nie/"
 
 [[menu.misc]]
   
