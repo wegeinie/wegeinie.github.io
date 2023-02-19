@@ -7,7 +7,7 @@ languageCode = "pl"
 defaultContentLanguage = "pl"
 title = "Wege i nie"
 theme = "hugo-tranquilpeak-theme"
-disqusShortname = "hugo-tranquilpeak-theme"
+disqusShortname = "wege-i-nie"
 # googleAnalytics = "00-000-00"
 paginate = 7
 canonifyurls = true
@@ -224,7 +224,7 @@ favicon = "/favicon.ico"
   [params.comment]
     [params.comment.disqus]
       enable = true
-      shortname = "hugo-tranquilpeak-theme"
+      shortname = "wege-i-nie"
     [params.comment.gitalk]
       enable = false
       # clientId =
