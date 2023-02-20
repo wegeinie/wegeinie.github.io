@@ -24,7 +24,7 @@ Oczywiście marynatę do kawałka dla córy zrobiłam zastępując pastę gochuj
 ## Składniki
 {{< alert success no-icon >}}
 - 1 dynia piżmowa
-Marynata
+- Marynata:
 - 1 łyżeczka pasty gochujang
 - 2 łyżeczki miodu
 - 3 łyżki sosu sojowego
@@ -33,7 +33,7 @@ Marynata
 - 1 ząbek czosnku
 - 4 cm imbiru
 - 3 łyżki oleju sezamowego, albo innego o orzechowym smaku 
-Do podania
+- Do podania:
 - Podprażone orzechy włoskie
 - Pestki granatu
 - Pokrojony w kostkę lub pokruszony ser (fajnie będzie tu pasować coś w stylu sera feta, lub jakiś inny solankowy, mocny w smaku ser – polecam wegański typu feta od violife)
