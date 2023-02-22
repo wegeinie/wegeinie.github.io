@@ -20,7 +20,7 @@ Dzisiaj szybki przepis na dodatek/sos do obiadu, który możemy podać zarówno 
 ## Składniki
 {{< alert success no-icon >}}
 - Duża cebula lub 2 mniejsze
-- 2 duże papryki (ładnie by wyglądały różnokolorowe, ale ja miałam tylko czerwone pod ręką)
+- 2 duże papryki (ładnie by wyglądały różnokolorowe, ale ja miałam tylko czerwone i mały kawałek zielonej pod ręką)
 - 3-4 pomidory lub około 300 ml passaty pomidorowej
 - 2 ząbki czosnku
 - ½ łyżeczki wędzonej słodkiej papryki suszonej
