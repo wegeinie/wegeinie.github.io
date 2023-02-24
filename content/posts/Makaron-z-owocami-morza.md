@@ -12,7 +12,7 @@ thumbnailImagePosition: "top"
 ---
 ![Makaron z owocami morza](/img/Makaron-z-owocami-morza/Makaron-z-owocami-morza-3.JPG)
 
-Wszyscy kochamy makarony! Może nie aż tak bardzo jak Włosi, ale potrafimy docenić ugotowane al. Dente spaghetti z pszenicy durum. Młoda najbardziej lubi go bez dodatków, albo ze szpinakiem podanym obok, ale makaron z tym sosem wyjątkowo jej smakował, a jest ona naprawdę surowym krytykiem, więc łapcie szybko przepis i biegnijcie po owoce morza, cytrynę i pietruszkę! 
+Wszyscy kochamy makarony! Może nie aż tak bardzo jak Włosi, ale potrafimy docenić ugotowane al dente spaghetti z pszenicy durum. Młoda najbardziej lubi je bez dodatków, albo ze szpinakiem podanym obok, ale makaron z tym sosem wyjątkowo jej smakował. Jest ona naprawdę surowym krytykiem, więc łapcie szybko przepis i biegnijcie po owoce morza, cytrynę i pietruszkę! 
 <!--more-->
 
 ## Składniki na jedną dużą porcję lub 2 małe ;)
