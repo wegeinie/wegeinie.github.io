@@ -1,5 +1,5 @@
 ﻿---
-title: "Labneh naturalny"
+title: "Labneh"
 date: 2023-02-24
 gallery:
 - /img/Labneh_naturalny/Labneh_naturalny-1.JPG
