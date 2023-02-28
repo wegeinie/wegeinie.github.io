@@ -1,6 +1,6 @@
 ﻿---
 title: "Bulion roślinny"
-date: 2023-02-26
+date: 2023-02-28
 categories:
 - zupy
 tags:
