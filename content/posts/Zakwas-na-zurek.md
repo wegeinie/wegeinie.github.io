@@ -28,7 +28,6 @@ Przygotowanie zakwasu jest banalnie proste, a taki domowy jest o niebo lepszy od
 - Łyżeczka ziaren czarnego pieprzu
 
 {{< /alert >}}
-
 ![Zakwas na żurek](/img/Zakwas-na-zurek/Zakwas-na-zurek-1.JPG)
 ## Przygotowanie
 Wszystkie składniki na zakwas wrzucamy do wyparzonego słoika, mieszamy i przykrywamy go gazą. Zakwas musi mieć dostęp powietrza. 1-2 razy dziennie warto go zamieszać czystą drewnianą łyżką a gdy osiągnie porządany smak wyjmujemy z niego czosnek, ziele, pieprz i liść laurowy i chowamy do lodówki. Nie wiem tak naprawdę czy ma jakieś znaczenie to czym mieszamy zakwas. Uczona mnie, że zakwas nie lubi się z metalami, ale nie mam pojęcia czy to prawda. Na wszelki wypadek zarówno zakwas chlebowy jak i na żurek ma kontakt tylko z drewnem 😉 
