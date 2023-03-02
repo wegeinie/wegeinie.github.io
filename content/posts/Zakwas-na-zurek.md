@@ -1,6 +1,6 @@
 ﻿---
 title: "Zakwas na żurek"
-date: 2023-02-02
+date: 2023-03-02
 categories:
 - inne
 tags:
@@ -12,7 +12,7 @@ tags:
 - wielkanoc
 thumbnailImagePosition: "top"
 ---
-![Zakwas na żurek](/img/Zakwas-na-zurek/Zakwas-na-zurek-2.JPG)
+![Zakwas-na-zurek](/img/Zakwas-na-zurek/Zakwas-na-zurek-2.JPG)
 
 Wystawy sklepowe przypomniały mi ostatnio, że zbliża się powoli Wielkanoc. Młoda namówiła mnie na zakup pięknego talerzyka z zajączkiem trzymającym w łapkach bukiet kwiatów… a dla męża kupiłam dobrej jakości, grubą żytnią mąkę, bo dla niego największym świątecznym rarytasem jest żurek. Ja lubię gdy mąka ma dużo czasu na nabranie odpowiedniego smaku dzięki czemu zupa wychodzi kwaśna i intensywna, ale jeśli stwierdzicie, że dla Was miesiąc kiszenia to za dużo to możecie po dwóch tygodniach schować słoik do lodówki by zatrzymać fermentację.  
 <!--more-->
