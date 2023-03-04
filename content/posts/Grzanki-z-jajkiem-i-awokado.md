@@ -12,7 +12,7 @@ tags:
 
 thumbnailImagePosition: "top"
 ---
-![Grzanki z jajkiem w koszulce i pastą z awokado](Grzanki-z-jajkiem-i-awokado-2.JPG)
+![Grzanki z jajkiem w koszulce i pastą z awokado](/img/Grzanki-z-jajkiem-i-awokado/Grzanki-z-jajkiem-i-awokado-2.JPG)
 
 Wieki temu, gdy byłam jeszcze znaczniej mniej siwą studentką filologii polskiej na Uniwersytecie Wrocławskim uwialbiałam odwiedzać pobliską restaurację Alladyn. Nie przelewało się wtedy u mnie, więc raczej nie zamawiałam dań typowo obiadowych (chyba, że na pół z koleżanką, a porcje tutaj były na tyle duże, że obie mogłyśmy się najeść), ale w menu wśród przystawek znajdowała się prawdziwa perełka. 
 <!--more-->
@@ -35,7 +35,7 @@ Dodatki:
 
 {{< /alert >}}
 
-![Grzanki z jajkiem w koszulce i pastą z awokado](Grzanki-z-jajkiem-i-awokado-1.JPG)
+![Grzanki z jajkiem w koszulce i pastą z awokado](/img/Grzanki-z-jajkiem-i-awokado/Grzanki-z-jajkiem-i-awokado-1.JPG)
 ## Przygotowanie
 Awokado zgniatamy widelcem na niezbyt gładką pastę, Doprawiamy roztartym ząbkiem czosnku, sokiem z cytryny, oliwą, ostrą papryką i solą do smaku. 
 Kromki chleba kropimy delikatnie oliwą i rumienimy na patelni lub w piekarniku. 
