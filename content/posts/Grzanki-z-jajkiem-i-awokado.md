@@ -21,7 +21,7 @@ Była to lekko pikantna pasta z awokado, pachnąca czosnkiem, polana oliwą i po
 ## Składniki na pastę
 {{< alert success no-icon >}}
 - Dojrzałe awokado
-- Sok z połowy lub 1/4 cytryny (zależy od tego na jak kwaśną cytrynę traficie… i na jak duże awokado 😉 )
+- 1-2 łyżki soku z cytryny (zależy od tego na jak kwaśną cytrynę traficie… i na jak duże awokado 😉 )
 - Ząbek czosnku
 - 3-4 łyżki dobrej oliwy z oliwek
 - Odrobina pieprzu cayenne i soli do smaku
