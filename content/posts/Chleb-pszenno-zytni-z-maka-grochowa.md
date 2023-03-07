@@ -1,12 +1,12 @@
-﻿---
+---
 title: "Chleb pszenno-żytni z mąką grochową"
 date: 2023-03-07
 gallery:
-- /img/Chleb-pszenno-zytni-z-maka-grochowa/Chleb-pszenno-zytni-z-maka-grochowa-1.JPG
-- /img/Chleb-pszenno-zytni-z-maka-grochowa/Chleb-pszenno-zytni-z-maka-grochowa-2.JPG
-- /img/Chleb-pszenno-zytni-z-maka-grochowa/Chleb-pszenno-zytni-z-maka-grochowa-3.JPG
-- /img/Chleb-pszenno-zytni-z-maka-grochowa/Chleb-pszenno-zytni-z-maka-grochowa-4.JPG
-- /img/Chleb-pszenno-zytni-z-maka-grochowa/Chleb-pszenno-zytni-z-maka-grochowa-5.JPG
+-/img/Chleb-pszenno-zytni-z-maka-grochowa/Chleb-pszenno-zytni-z-maka-grochowa-1.JPG
+-/img/Chleb-pszenno-zytni-z-maka-grochowa/Chleb-pszenno-zytni-z-maka-grochowa-2.JPG
+-/img/Chleb-pszenno-zytni-z-maka-grochowa/Chleb-pszenno-zytni-z-maka-grochowa-3.JPG
+-/img/Chleb-pszenno-zytni-z-maka-grochowa/Chleb-pszenno-zytni-z-maka-grochowa-4.JPG
+-/img/Chleb-pszenno-zytni-z-maka-grochowa/Chleb-pszenno-zytni-z-maka-grochowa-5.JPG
 categories:
 - pieczywo
 tags:
