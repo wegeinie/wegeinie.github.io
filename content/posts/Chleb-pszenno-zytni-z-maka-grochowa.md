@@ -30,6 +30,7 @@ Moja Aurela nie jest fanką strączków, a chciałabym jej wprowadzić je do die
 - 3 łyżeczki soli
 - 3 łyżki oliwy
 {{< /alert >}}
+
 ![Chleb pszenno-żytni z mąką grochową](/img/Chleb-pszenno-zytni-z-maka-grochowa/Chleb-pszenno-zytni-z-maka-grochowa-3.JPG)
 ## Przygotowanie
 Na początek robimy zaczyn z drożdży rozpuszczonych w wodzie z kilkoma łyżkami mąki. Gdy pojawią się na powierzchni bąbelki dodajemy pozostałe składniki i wyrabiamy... i wyrabiamy... i wyrabiamy. Ciasto będzie luźne, więc warto użyć robota z hakiem do jego wyrobienia. Odstawiamy ciasto na godzinę w ciepłe miejsce. Po tym czasie dzielimy je na 3-4 bochenki, układamy na blaszce do pieczenia i znowu zostawiamy na godzinę. W tym czasie nagrzewamy piekarnik do 200°C. Chleby nacinamy i wsuwamy do piekarnika. Powinny piec się około 30-35 minut. Pozwólcie im trochę ostygnąć aż zaczniecie zajadać 😁
