@@ -20,7 +20,6 @@ thumbnailImagePosition: "top"
 
 Moja Aurela nie jest fanką strączków, a chciałabym jej wprowadzić je do diety. Wpadłam więc na pomysł, by przemycić ich trochę w pieczywie. Wyciągnęłam więc z szafki mąkę groszkową, wymieszałam z razową żytnią i pszenną i zarobiłam chleb. Wyszedł bardzo delikatny i elastyczny. W smaku mąka z groszku jest właściwie niewyczuwalna, a dzięki dodatkowi mąki żytniej nie wyszła bezsmakowa gąbka. Muszę jeszcze popracować nad nacinaniem ciasta no i stanowczo upieczcie chleby na dwóch blachach, bo moje tak urosły, że się skleiły, ale na smak to nie ma wpływu. Nie dodawajcie więcej mąki, mimo, że ciasto jest dosyć luźne. To dzięki temu chlebek jest taki mięciutki :)
 <!--more-->
-
 ## Składniki
 {{< alert success no-icon >}}
 - 750 ml wody
@@ -30,8 +29,6 @@ Moja Aurela nie jest fanką strączków, a chciałabym jej wprowadzić je do die
 - 200 g mąki grochowej
 - 3 łyżeczki soli
 - 3 łyżki oliwy
-
-
 {{< /alert >}}
 ![Chleb pszenno-żytni z mąką grochową](/img/Chleb-pszenno-zytni-z-maka-grochowa/Chleb-pszenno-zytni-z-maka-grochowa-3.JPG)
 ## Przygotowanie
