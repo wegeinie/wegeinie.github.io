@@ -1,6 +1,6 @@
 ---
 title: "Leniwe kluski"
-date: 2023-03.09
+date: 2023-03-09
 categories:
 - dania główne
 tags:
