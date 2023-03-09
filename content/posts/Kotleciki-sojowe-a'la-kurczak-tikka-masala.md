@@ -1,8 +1,8 @@
-﻿---
+---
 title: "Kotleciki sojowe a'la kurczak tikka masala"
 date: 2023-03-06
 categories:
-- danie główne
+- dania główne
 tags:
 - wegańskie
 - kotleciki sojowe
