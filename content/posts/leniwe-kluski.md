@@ -7,6 +7,7 @@ tags:
 - twaróg
 - kluski
 - deser
+- wegetariańskie
 - blw
 thumbnailImagePosition: "top"
 ---
