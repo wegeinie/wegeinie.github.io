@@ -1,8 +1,8 @@
-﻿---
+---
 title: "Leniwe kluski"
 date: 2023-03.09
 categories:
-- danie główne
+- dania główne
 tags:
 - twaróg
 - kluski
