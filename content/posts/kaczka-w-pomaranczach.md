@@ -12,6 +12,7 @@ thumbnailImagePosition: "top"
 ![Kaczka w pomarańczach](/img/kaczka-w-pomaranczach/kaczka-w-pomaranczach-1.JPG)
 
 Powoli zbliża się Wielkanoc, a co się z tym wiąże zaczynamy szukać przepisów na dania, które możemy podac na świątecznym stole. Moja siostra jest mistrzynią w robieniu kaczki. Mój mąż zawsze się nią zajada, gdy wpadamy do nich na wizytę, a później w domu słyszę, żebym zapytała o przepis, bo u siostry to ta kaczka taka miękka i dodatki tak jakby lepiej dobrane, doprawiona dobrze. No to trochę się zainspirowałam jej przepisem, ale nie piekłam kaczki w całości, bo u nas w domu po prostu nie miałby jej kto zjeść. Sławek nie jest fanem modnej ostatnio różowej w środku piersi kaczki. Woli gdy jest ona długo pieczona, a wcześniej wymoczona w solance. W piekarniku dołączyły do niej tym razem pomarańcze i goździki, a na talerzu podałam ją z kluseczkami marchewkowymi i buraczkami w śmietance. 
+Jeśli nie jecie mięsa możecie w ten sam sposób upiec tofu, albo przygotować pieczeń z seitanu.
 <!--more-->
 
 ## Składniki
