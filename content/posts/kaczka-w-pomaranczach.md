@@ -17,7 +17,7 @@ Jeśli nie jecie mięsa możecie w ten sam sposób upiec tofu, albo przygotować
 
 ## Składniki
 {{< alert success no-icon >}}
-- 0,5 kg kaczki (u mnie piersi z kawałkiem skrzydełka
+- 0,5 kg kaczki (u mnie piersi z kawałkiem skrzydełka)
 - 1 pomarańcza
 - 1 cebula
 - 3 goździki
@@ -40,6 +40,6 @@ W naczyniu żaroodpornym układamy pokrojoną w cząstkę cebulę i skórkę z p
 ![Kaczka w pomarańczach](/img/kaczka-w-pomaranczach/kaczka-w-pomaranczach-2.JPG)
 Pod koniec pieczenia zdejmujemy pokrywkę z naczynia żaroodpornego i włączamy fukncję grilla, tak by skórka zrobiła się chrupiąca. Dopiekamy w temperaturze 180' przez około 20-30 minut.
 
-Pomarańczę obraną ze skórki kroimy w plastry, podsmażamy na patelni wraz z imbirem podlewając tłuszczukiem, który wytopił się z kaczki. Układamy na talerzu, na pomarańczy układamy kaczkę i podajemy z kluseczkami, najlepiej takimi lepionymi wraz z półtorarocznym dzieckiem, bo wtedy będzie więcej dziurek i więcej miejsca na sosik powstały podczas pieczenia. Smacznego :)
+Pomarańczę obraną ze skórki kroimy w plastry, podsmażamy na patelni wraz z imbirem podlewając tłuszczykiem, który wytopił się z kaczki. Układamy na talerzu. Na pomarańczy układamy kaczkę i podajemy z kluseczkami, najlepiej takimi lepionymi wraz z półtorarocznym dzieckiem, bo wtedy będzie więcej dziurek i więcej miejsca na sosik powstały podczas pieczenia. Smacznego :)
 
 ![Kaczka w pomarańczach](/img/kaczka-w-pomaranczach/kaczka-w-pomaranczach-4.JPG)
