@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Babka cytrynowa z żurawiną"
 date: 2023-03-13
 gallery:
@@ -19,7 +19,7 @@ thumbnailImagePosition: "top"
 ---
 ![Babka cytrynowa z żurawiną](/img/Babka-cytrynowa/Babka-cytrynowa-1.JPG)
 
-Co roku na święta Wielkiej Nocy piekłam mazurka… i co roku narzekałam, że dużo przy nim pracy, że ciasto kruche nie wyszło takie jak chciałam, że masa nie idealna, dekoracja nieprzemyślana. W tym roku postawie więc na babkę, którą lubią wszyscy. Mama na 100% powie, że dobra, bo taka nie za słodka, dziecko zje chętnie, bo lubi cytrynę tak jak jej Tatuś, a ja się nie napracuję, bo to jedno z najprostszych do zrobienia ciast. 
+Co roku na święta Wielkiej Nocy piekłam mazurka… i co roku narzekałam, że dużo przy nim pracy, że ciasto kruche nie wyszło takie jak chciałam, że masa nie idealna, dekoracja nieprzemyślana. W tym roku postawię więc na babkę, którą lubią wszyscy. Mama na 100% powie, że dobra, bo taka nie za słodka, dziecko zje chętnie, bo lubi cytrynę tak jak jej Tatuś, a ja się nie napracuję, bo to jedno z najprostszych do zrobienia ciast. 
 <!--more-->
 
 ## Składniki
