@@ -24,6 +24,7 @@ Focaccia to ulubiony chlebek mojego męża. Zjada go najchętniej w najprostszej
 ## Składniki
 {{< alert success no-icon >}}
 - 1 kg mąki typ 450-500, lub 00
+- 700 ml wody
 - 3 łyżeczki soli
 - 20g drożdży
 - duży chlust oliwy
