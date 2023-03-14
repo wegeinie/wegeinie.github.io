@@ -16,7 +16,7 @@ tags:
 - wegańskie
 thumbnailImagePosition: "top"
 ---
-![Focaccia](/img/Focaccia/Focaccia-2.JPG)
+![Focaccia](/img/Focaccia/Focaccia-1.JPG)
 
 Focaccia to ulubiony chlebek mojego męża. Zjada go najchętniej w najprostszej możliwej wersji – z dobrą oliwą, odrobiną soli i kremu balsamicznego, ewentualnie zagryzając pomidorem. Więcej nie potrzeba do szczęścia. Ciągle eksperymentuję z przepisem, żeby ciasto było jeszcze bardziej puszyste i żeby podczas wyrastania tworzyły się piękne bąble. Czasem posypuję ją przed upieczeniem grubą solą, czasami rozrzucam na niej oliwki lub kapary, ale tym razem upiekłam ją tylko z oliwą, bez udziwnień. 
 <!--more-->
