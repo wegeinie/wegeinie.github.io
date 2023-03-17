@@ -13,7 +13,7 @@ thumbnailImagePosition: "top"
 ---
 ![Wegańskie pancakes](/img/Weganskie-pancakes/Wegańskie-pancakes-1.JPG)
 
-Idealnie puszyste placuszki bez mleka czy jajek, ze składników, który każdy ma w domu. Podane z dużą ilością owoców i kremem orzechowym z dodatkiwm kawy i wanilii. Czy może być lepszy pomysł na leniwe śniadania?
+Idealnie puszyste placuszki bez mleka czy jajek, ze składników, który każdy ma w domu. Podane z dużą ilością owoców i kremem orzechowym z dodatkiwm kawy i wanilii. Czy może być lepszy pomysł na leniwe śniadanie?
 <!--more-->
 
 ## Składniki
