@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Żurek"
 date: 2023-03-20
 categories:
@@ -7,6 +7,7 @@ tags:
 - zakwas żytni
 - wegańskie
 - jarzyny
+- wielkanoc
 
 thumbnailImagePosition: "top"
 ---
