@@ -25,7 +25,7 @@ Pochodzę z województwa łódzkiego i kocham naszą kuchnię regionalną. Zalew
 - 3-4 ziemniaki
 - około 300g grzybów
 - 1,5 l. bulionu warzywnego lub wody
-- 0,5 l. zakwasu żytniego
+- 0,5 l. [zakwasu żytniego](https://wegeinie.pl/2023/03/zakwas-na-%C5%BCurek/)
 - 3 liście laurowe
 - 5 kulek ziela zngielskiego
 - 10 ziaren czarnego pieprzu
