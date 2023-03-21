@@ -41,6 +41,6 @@ Dodatki
 {{< /alert >}}
 ![Pancakes z ricottą śliwką i tymiankiem](/img/Pancakes z ricotta sliwka i tymiankiem/Pancakes-z-ricotta-sliwka-i-tymiankiem-3.JPG)
 ## Przygotowanie
-Białko z jajka ubijamy na sztywną pianę. Pozostałe składniki mieszamy, a następnie łączymy delikatnie z pianą, tak by zachować jak najwięcej pęcherzyków powietrza. Smażymy na rozgrzanej patelni. Układamy porcję na talerzu, obsypujemy pokruszoną ricottą, lub ulubionym twarożkiem. Układamy pokrojone śliwki. Polewamy całość miodem lub syropem klonowym i posypujemy świeżym tymiankiem  Uwierzcie mi śliwka i tymianek to genialne połączenie! 
+Białko z jajka ubijamy na sztywną pianę. Pozostałe składniki mieszamy, a następnie łączymy delikatnie z pianą, tak by zachować jak najwięcej pęcherzyków powietrza. Smażymy na rozgrzanej patelni. Układamy porcję na talerzu, obsypujemy pokruszoną ricottą, lub ulubionym twarożkiem. Układamy pokrojone śliwki. Polewamy całość miodem lub syropem klonowym. lub syropem klonowym i posypujemy świeżym tymiankiem  Uwierzcie mi śliwka i tymianek to genialne połączenie! 
 Zjadamy ze smakiem popijając gorącą kawą 😉
 ![Pancakes z ricottą śliwką i tymiankiem](/img/Pancakes z ricotta sliwka i tymiankiem/Pancakes-z-ricotta-sliwka-i-tymiankiem-5.JPG)
