@@ -24,7 +24,7 @@ Uwaga, uwaga, to nie jest przepis restauracyjny. Gdy byłam dzieckiem taką zup�
 - 1 łyżka majeranku
 - 3 ziarna ziela angielskiego
 - 2 liście laurowe ( u mnie świeże, suszonych warto dać więcej)
-- Zakwas żytni domowy lub kupny
+- [zakwas żytni](https://wegeinie.pl/2023/03/zakwas-na-%C5%BCurek/) domowy lub kupny
 - 4-5 szklanek wody lub bulionu warzywnego
 - Olej do smażenia
 
