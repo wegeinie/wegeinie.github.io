@@ -16,7 +16,7 @@ thumbnailImagePosition: "top"
 ---
 ![Pancakes z ricottą śliwką i tymiankiem](/img/Pancakes z ricotta sliwka i tymiankiem/Pancakes-z-ricotta-sliwka-i-tymiankiem-4.JPG)
 
-Był już przepis na wegańskie pankejki, to dzisiaj przyszła kolej na wersję tradycyjną. Podane w towarzystwie soczystej śliwki skąpanej w miodzie i tymianku, obsypane domową ricottą. Leciutkie jak chmurki placuszki same w sobie nie wychodzą bardzo słodkie, ale rekompensują to dodatki. Żałuję jedynie, że to nie sezon na węgierki, bo one są jednak dużo bardziej aromatyczne od importowanych śliwek, ale sezonowość ulubionych owoców ma swój urok – nigdy się chyba nie znudzą😉 
+Był już przepis na [wegańskie pankejki](https://wegeinie.pl/2023/03/wega%C5%84skie-pancakes/), to dzisiaj przyszła kolej na wersję tradycyjną. Podane w towarzystwie soczystej śliwki skąpanej w miodzie i tymianku, obsypane [domową ricottą](https://wegeinie.pl/2023/03/domowa-ricotta/). Leciutkie jak chmurki placuszki same w sobie nie wychodzą bardzo słodkie, ale rekompensują to dodatki. Żałuję jedynie, że to nie sezon na węgierki, bo one są jednak dużo bardziej aromatyczne od importowanych śliwek, ale sezonowość ulubionych owoców ma swój urok – nigdy się chyba nie znudzą😉 
 <!--more-->
 
 ## Składniki
@@ -31,7 +31,7 @@ Był już przepis na wegańskie pankejki, to dzisiaj przyszła kolej na wersję 
 - Olej do smażenia
 
 Dodatki
-- domowa ricotta (przepis znajdziecie na stronie)
+- [domowa ricotta](https://wegeinie.pl/2023/03/domowa-ricotta/) (po przepis kliknijcie w link)
 - śliwki
 - miód
 - Świeży tymianek
