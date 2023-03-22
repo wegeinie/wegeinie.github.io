@@ -8,12 +8,13 @@ gallery:
 - /img/Zapiekanka-z-ricotta-pomidorami-boczkiem/Zapiekanka-z-ricotta-pomidorami-boczkiem-4.JPG
 - /img/Zapiekanka-z-ricotta-pomidorami-boczkiem/Zapiekanka-z-ricotta-pomidorami-boczkiem-5.JPG
 categories:
-- pieczywo
+- dania główne
 tags:
-- chleb
-- mąka żytnia
-- mąka pszenna
-- wegańskie
+- zapiekanka
+- ricotta
+- boczek
+- z mięsem
+- sos pomidorowy
 thumbnailImagePosition: "top"
 ---
 ![Zapiekanka z ricottą, pomidorami i boczkiem](/img/Zapiekanka-z-ricotta-pomidorami-boczkiem/Zapiekanka-z-ricotta-pomidorami-boczkiem-5.JPG)
