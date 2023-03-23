@@ -40,10 +40,8 @@ Kruszonka:
 Dodatki:
 - Ulubione owoce
 {{< /alert >}}
-![Ciasto drożdżowe z owocami i kruszonką](/img/Ciasto-drozdzowe-z-owocami-i-kruszonka/Ciasto-drozdzowe-z-owocami-i-kruszonka-1.JPG)
+![Ciasto drożdżowe z owocami i kruszonką](/img/Ciasto-drozdzowe-z-owocami-i-kruszonka/Ciasto-drozdzowe-z-owocami-i-kruszonka-2.JPG)
 ## Przygotowanie
 Na początku robimy zaczyn z drożdży, odrobiny wody i mąki. Odstawiamy na 10 minut aż pojawią się na powierzchni bąbelki. Wówczas dodajemy pozostałe składniki na ciasto i zarabiamy tak długo, aż będzie elastyczne i zacznie samo odklejać się nam od rąk. Przykrywamy ściereczką i odstawiamy na godzinę. W tym czasie robimy kruszonkę. Zagniatamy wszystkie składniki krótko i odstawiamy do lodówki. Przygotowujemy też ulubione owoce. Wybieramy raczej takie, które nie mają bardzo dużo wody. Raczej drożdżowe z arbuzem nie przejdzie😉 Jeśli używamy mrożonych owoców to rozmrażamy je wcześniej i odlewamy sok. Gdy ciasto ładnie wyrośnie przekładamy je na dużą blachę do pieczenia i rozciągamy. Staramy się nie wałkować ciasta drożdżowego, bo pozbawiamy go wówczas pęcherzyków powietrza, które nadają mu przecież lekkości. Znacznie lepiej jest je delikatnie rozciągać. 
-![Ciasto drożdżowe z owocami i kruszonką](/img/Ciasto-drozdzowe-z-owocami-i-kruszonka/Ciasto-drozdzowe-z-owocami-i-kruszonka-2.JPG)
+![Ciasto drożdżowe z owocami i kruszonką](/img/Ciasto-drozdzowe-z-owocami-i-kruszonka/Ciasto-drozdzowe-z-owocami-i-kruszonka-4.JPG)
 Rozsypujemy na cieście owoce i odstawiamy jeszcze na 45 minut. W tym czasie rozgrzewamy piekarnik do 180°C. Przed włożeniem ciasta do piekarnika obsypujemy je zimną kruszonką i pieczemy około 35 minut. Podobno ciasta drożdżowego nie powinno się jeść ciepłego… ale nigdy jeszcze nie udało mi się odczekać aż wystygnie, więc śmiało, zaserwujcie sobie duży kawałek. Smacznego!
-![Ciasto drożdżowe z owocami i kruszonką](/img/Ciasto-drozdzowe-z-owocami-i-kruszonka/Ciasto-drozdzowe-z-owocami-i-kruszonka-5.JPG)
-
