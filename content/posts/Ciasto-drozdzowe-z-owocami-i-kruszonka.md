@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Ciasto drożdżowe z owocami i kruszonką"
 date: 2023-03-23
 gallery:
@@ -46,3 +46,4 @@ Na początku robimy zaczyn z drożdży, odrobiny wody i mąki. Odstawiamy na 10 
 ![Ciasto drożdżowe z owocami i kruszonką](/img/Ciasto-drozdzowe-z-owocami-i-kruszonka/Ciasto-drozdzowe-z-owocami-i-kruszonka-2.JPG)
 Rozsypujemy na cieście owoce i odstawiamy jeszcze na 45 minut. W tym czasie rozgrzewamy piekarnik do 180°C. Przed włożeniem ciasta do piekarnika obsypujemy je zimną kruszonką i pieczemy około 35 minut. Podobno ciasta drożdżowego nie powinno się jeść ciepłego… ale nigdy jeszcze nie udało mi się odczekać aż wystygnie, więc śmiało, zaserwujcie sobie duży kawałek. Smacznego!
 ![Ciasto drożdżowe z owocami i kruszonką](/img/Ciasto-drozdzowe-z-owocami-i-kruszonka/Ciasto-drozdzowe-z-owocami-i-kruszonka-5.JPG)
+
