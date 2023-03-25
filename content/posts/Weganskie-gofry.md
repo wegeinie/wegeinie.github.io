@@ -11,7 +11,7 @@ thumbnailImagePosition: "top"
 ---
 ![Wegańskie gofry](/img/Weganskie-gofry/Weganskie-gofry-1.JPG)
 
-Z okazji międzynarodowego dnia gofra podzielę się z Wami przepisem na gofry idealne! Wegańskie, chrupiące, leciutkie i bardzo pusyste, a dodatkowo wykonane ze składników, które mamy zawycaj w domu. Podane tradycyjnie z waniliowym jogurtem i owocami. Z czym Wy najbardziej lubicie gofry? Z bitą śmietaną, cukrem pudrem, dżemem czy wymyśliliście jeszcze coś innego?
+Z okazji międzynarodowego dnia gofra podzielę się z Wami przepisem na gofry idealne! Wegańskie, chrupiące, leciutkie i bardzo pusyste, a dodatkowo wykonane ze składników, które mamy zawyczaj w domu. Podane tradycyjnie z waniliowym jogurtem i owocami. Z jakimi dodatkami Wy najbardziej lubicie gofry? Z bitą śmietaną, cukrem pudrem, dżemem czy też wymyśliliście jeszcze coś innego?
 <!--more-->
 
 ## Składniki
