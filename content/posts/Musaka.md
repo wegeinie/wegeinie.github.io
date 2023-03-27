@@ -20,7 +20,7 @@ tags:
 
 thumbnailImagePosition: "top"
 ---
-![Musaka](/img/Musaka/Musaka-6.JPG)
+![Musaka](/img/Musaka/Musaka-5.JPG)
 
 Od kiedy postanowiłam, że chciałabym, żebyście zajrzeli do naszej domowej kuchni, mój mąż powtarza żebym podzieliła się z Wami tym przepisem. Moussaka to jedno z jego ulubionych dań. W Grecji spotkacie się często z wersją, w której dolną warstwę tworzą podgotowane i pokrojone w plastry ziemniaki, ale Sławek woli wersję z cukinią i bakłażanem. Taka zapiekanka idealnie się sprawdzi, gdy oczekujecie na wizytę gości. Można ją przygotować wcześniej i tylko podpiec w piekarniku tuż przed podaniem. Łatwo ją też zweganizować jeśli nie jecie mięsa.
 <!--more-->
