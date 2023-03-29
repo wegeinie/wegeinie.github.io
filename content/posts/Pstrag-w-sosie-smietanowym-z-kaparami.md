@@ -6,11 +6,12 @@ categories:
 tags:
 - ryba
 - kapary
+- jadalne kwiaty
 thumbnailImagePosition: "top"
 ---
 ![Pstrąg w sosie śmietanowym z kaparami](/img/Pstrag-w-sosie-smietanowym-z-kaparami/Pstrag-w-sosie-smietanowym-z-kaparami-1.JPG)
 
-Pstrąg tęczowy to ulubiona ryba mojej córy, więc gości na naszych stołach regularnie. Nie ukrywamy jej jednak w panierce. Czasem podczas gotowania warto kierować się zasadą, że mniej znaczy więcej. Mając smaczne składniki nie potrzeba już szaleć z dodatkami. W odniesieniu do większości ryb jest to strzał w dziesiątkę, bo ich delikatny smak łatwo zabić. Podniesiemy go za to do roli gwiazdy talerza, gdy ograniczymy się do dobrej oliwy, odrobiny śmietanki i pietruszki. Danie wieńczą chrupiące kapary. Jeśli jeszcze takich nie jedliście to musicie spróbować! 
+Pstrąg tęczowy to ulubiona ryba mojej córy, więc gości na naszych stołach regularnie. Nie ukrywamy jej jednak w panierce. Czasem podczas gotowania warto kierować się zasadą, że mniej znaczy więcej. Mając smaczne składniki nie potrzeba już szaleć z dodatkami. W odniesieniu do większości ryb jest to strzał w dziesiątkę, bo ich delikatny smak łatwo zabić. Podniesiemy go za to do roli gwiazdy talerza, gdy ograniczymy się do dobrej oliwy, odrobiny śmietanki i pietruszki. Danie wieńczą chrupiące kapary i kwiaty forsycji, na które zaczął się właśnie sezon. Używacie w kuchni jadalnych kwiatów? Są nie tylko piękne, ale też zawierają mnóstwo fantastycznych wartości odżywczych. Forsycja na przykład jest świetnym źródłem rutyny. Jeśli jeszcze nie jedliście to musicie spróbować! 
 <!--more--> 
 
 ## Składniki
@@ -29,6 +30,7 @@ Sałatka:
 - Sałata rzymska
 - ½ dużego ogórka
 - Rzeżucha lub szczypiorek
+- kilka kwiatów forsycji (nie za dużo, bo są delikatnie gorzkie)
 - 3 łyżki oleju o delikatnym smaku. 
 - 1 łyżka octu jabłkowego
 - ½ łyżeczki miodu
