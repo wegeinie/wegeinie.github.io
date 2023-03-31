@@ -2,7 +2,7 @@
 title: "Filety z pstrąga w sosie śmietanowym z chrupiącymi kaparami"
 date: 2023-03-28
 categories:
-- danie główne
+- dania główne
 tags:
 - ryba
 - kapary
