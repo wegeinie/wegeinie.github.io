@@ -1,8 +1,8 @@
-﻿---
+---
 title: "Pasta bezjajeczna z ciecierzycy"
 date: 2023-03-30
 categories:
-- śniadania
+- śniadanie
 tags:
 - ciecierzyca
 - pasta do pieczywa
