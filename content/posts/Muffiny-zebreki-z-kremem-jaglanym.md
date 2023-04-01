@@ -25,7 +25,7 @@ Taki krem nada się do dekoracji babeczek, ale możecie też wypełnić nim kruc
 
 ## Składniki na krem
 {{< alert success no-icon >}}
-- 1 filiżanka kaszy jaglanej
+- 1 filiżanka kaszy jaglanej (moja filiżanka ma 200ml)
 - 4 filiżanki mleka roślinnego (u mnie migdałowe)
 - ¾ filiżanki cukru lub tyle ile lubimy innego słodziwa
 - 2 łyżeczki cukru wanilinowego
