@@ -17,21 +17,21 @@ Marynowane boczniaki to już u nas klasyk na świątecznym stole. Z dodatkiem ce
 
 ## Składniki
 {{< alert success no-icon >}}
-0,25 kg boczniaków
-1/2 szalotki
-1/2 cebuli
+- 0,25 kg boczniaków
+- 1/2 szalotki
+- 1/2 cebuli
 
 Marynata 
-1/3 szkl. oleju
-4 łyżki octu jabłkowego lub winnego
-1 łyżeczka cukru
-1/3 łyżeczki soli
-1/2 łyżeczki musztardy
-1 gwiazdka anyżu
-1 łyżecka ziaren pieprzu
-1/2 łyżeczki ziaren kolendry
-1/2 ziaren gorczycy
-1 łyżka alg wakame, lub pocięty arkusz nori
+- 1/3 szkl. oleju
+- 4 łyżki octu jabłkowego lub winnego
+- 1 łyżeczka cukru
+- 1/3 łyżeczki soli
+- 1/2 łyżeczki musztardy
+- 1 gwiazdka anyżu
+- 1 łyżecka ziaren pieprzu
+- 1/2 łyżeczki ziaren kolendry
+- 1/2 ziaren gorczycy
+- 1 łyżka alg wakame, lub pocięty arkusz nori
 
 {{< /alert >}}
 
