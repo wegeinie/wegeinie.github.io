@@ -27,6 +27,7 @@ Marynata
 - 1 łyżeczka cukru
 - 1/3 łyżeczki soli
 - 1/2 łyżeczki musztardy
+- 1 liść laurowy porwany na kawałki
 - 1 gwiazdka anyżu
 - 1 łyżecka ziaren pieprzu
 - 1/2 łyżeczki ziaren kolendry
