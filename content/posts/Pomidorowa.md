@@ -10,7 +10,7 @@ tags:
 
 thumbnailImagePosition: "top"
 ---
-![Pomidorowa](/img/Pomidorowa/Pomidorowa-3)
+![Pomidorowa](/img/Pomidorowa/Pomidorowa-3.JPG)
 
 Ukochana zupa mojej córki... i siostrzenicy... i chyba wielu dzieci ;) Królowa POMIDOROWA. Słodka i lekko kwaśna, wyrazista w smaku i delikatna jednocześnie. U nas jemy ją z makaronem, ale jeśli jesteście fanami innych dodatków to śmiało! Podana z kleksem z bitej śmietany (ale możecie po prostu polać ją łyżką śmietanki, albo wcześniej z nią wymieszać. Bita śmietana po prostu ładnie wygląda). Po sezonie na świeże pomidory ratujemy się naszymi domowymi przetworami. Dobrze, że moja Mama ma tendencję do sadzenia zbyt dużej ilości pomidorów, bo naszych okazało się trochę zbyt mało jak na nasze możliwości ;)
 <!--more-->
@@ -36,7 +36,7 @@ Ukochana zupa mojej córki... i siostrzenicy... i chyba wielu dzieci ;) Królowa
 - Słodka śmietanka (u mnie Rama roślinna 31%)
 {{< /alert >}}
 
-![Pomidorowa](/img/Pomidorowa/Pomidorowa-1)
+![Pomidorowa](/img/Pomidorowa/Pomidorowa-1.JPG)
 ## Przygotowanie
 Do garnka wlewamy oliwę i gdy się rozgrzeje wrzucamy na nią warzywa (poza cebulą). Chwilkę podsmażamy i zalewamy wodą. Cebulę opalamy dokładnie i dorzucamy do garnka. Dodajemy też wszystkie przyprawy i ustawiamy na maleńskim ogniu. Bulion powinien tylko do nas delikatnie mrugać. Zostawiamy na około 3 godziny. Po tym czasie dolewamy pomidory i doprawiamy solą i pieprzem. Gotujemy jeszcze przez 30 minut. Na koniec wlewamy kilka łyżek śmietanki i mieszamy. Pozostałą śmietankę ubijamy i nakładamy łyżką na talerz gorącej zupy. Smacznego!
-![Pomidorowa](/img/Pomidorowa/Pomidorowa-2)
+![Pomidorowa](/img/Pomidorowa/Pomidorowa-2.JPG)
