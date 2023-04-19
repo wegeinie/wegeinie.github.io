@@ -26,7 +26,7 @@ Był już przepis na [wegańskie pankejki](https://wegeinie.pl/2023/03/wega%C5%8
 - ½ szklanki serwatki pozostałej po robieniu ricotty, maślanki, kefiru lub ostatecznie mleka
 - 1 łyżeczka proszku do pieczenia
 - 1 łyżeczka cukru
-- 1 łyżeczka soli
+- szczypta soli
 - Olej do smażenia
 
 Dodatki
