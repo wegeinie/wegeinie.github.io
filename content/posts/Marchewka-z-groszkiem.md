@@ -30,6 +30,6 @@ Moja Babcia robi najlepszą marchewkę z groszkiem na świecie i chociaż bardzo
 ![Marchewka z groszkiem](/img/Marchewka-z-groszkiem/Marchewka-z-groszkiem-2.JPG)
 
 ## Przygotowanie
-Do garnka wlewamy oliwę. Marchewki kroimy w grubą kostkę i delikatnie podsmażamy. Po chwili dolewamy 1/2 szklanki mleka i wrzucamy gałązki tymianku (ja wrzucam 3-4 spore, ale dajcie tyle ile lubicie). Gotujemy pod przykryciem aż marchewka będzie miękka (jeśli mleko odparowało to warto go trochę dolać). Dorzucamy wtedy groszek. W pozostałej części mleka rozrabiamy mąkę i dolewamy do garnka. Intensywnie mieszamy żeby nie zrobiły się grudki. Doprawiamy solą i zjadamy!
+Do garnka wlewamy oliwę. Marchewki kroimy w grubą kostkę i delikatnie podsmażamy. Po chwili dolewamy 1/2 szklanki mleka i wrzucamy gałązki tymianku (ja wrzucam 3-4 spore, ale dajcie tyle ile lubicie). Gotujemy pod przykryciem aż marchewka będzie miękka (jeśli mleko odparowało to warto go trochę dolać). Dorzucamy wtedy groszek. W pozostałej części mleka rozrabiamy mąkę i dolewamy do garnka. Intensywnie mieszamy żeby nie zrobiły się grudki. Gotujemy aż zgęstnieje. Doprawiamy solą i zjadamy!
 
 ![Marchewka z groszkiem](/img/Marchewka-z-groszkiem/Marchewka-z-groszkiem-1.JPG)
