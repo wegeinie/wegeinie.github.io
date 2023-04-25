@@ -11,7 +11,7 @@ thumbnailImagePosition: "top"
 ---
 ![Pasta rybna z twarogiem i kaparami](/img/Pasta-rybna-z-twarogiem/Pasta-rybna-z-twarogiem-1.JPG)
 
-Mój mąż raz lubi kupować ryby w puszkach. Gorzej idzie mu jednak ich jedzenie ;) Gdy zobaczyłam, że w szafce powoli zaczyna robić się ich stanowczo zbyt dużo postanowiłam przerobić jakieś na pastę do pieczywa. Użyłam tego co miałąm pod ręką, więc nie bójcie się eksperymentów. Pasta wyszła lekko pikantna, dymna ale też delikatna i delikatnie kwaśna w smaku. Zniknęła szybko z lodówki :)
+Mój mąż lubi kupować ryby w puszkach. Gorzej idzie mu jednak ich jedzenie ;) Gdy zobaczyłam, że w szafce powoli zaczyna robić się ich stanowczo zbyt dużo postanowiłam przerobić część na pastę do pieczywa. Wybór padł na szproty podwędzane w oleju. Użyłam też tego co miałam pod ręką, więc nie bójcie się eksperymentów. Pasta wyszła lekko pikantna, dymna ale też delikatna w smaku. Zniknęła szybko z lodówki :)
 <!--more-->
 
 ## Składniki
