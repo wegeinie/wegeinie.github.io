@@ -20,10 +20,10 @@ Swoją drogą bulion jarzynowy to idealny sposób na wyczyszczenie lodówki z za
 ## Składniki
 {{< alert success no-icon >}}
 - 3 marchewki
-- 2 pietruszki 
+- 3 pietruszki 
 - 1/4 sporego korzenia selera 
 - 1/2 pora (użyłam zielonych liści, bo takie mi zalegały w lodówce)
-- Cebula
+- Cebula (opalona nad gazem ewentualnie opieczona w piekarniku rozgrzanym do maksymalnej temperatury)
 - 8 ząbków czosnku
 - 5 cm. imbiru
 - 3 liście laurowe (użyłam świeżych, suszonych warto dać więcej)
