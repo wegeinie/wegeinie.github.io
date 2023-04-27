@@ -38,7 +38,7 @@ Kwasek to zupa, na którą przepis wyniosłam z rodzinnego domu. Gotowała go na
 
 {{< /alert >}}
 
-![Zupa kwasek](/img/Zupa-kwasek/Zupa-kwasek-2.JPG)
+![Zupa kwasek](/img/Zupa-kwasek/Zupa-kwasek-1.JPG)
 ## Przygotowanie
 Obieramy warzywa, cebulę opalamy nad palnikiem i wrzucamy wszystko do garnka razem z przyprawami i ziołami. Zalewamy wodą i gotujemy minumum 2-3 godziny, by bulion nabrał smaku. Po tym czasie dolewamy sok z kapusty. Wlejcie najpierw szklankę i sprawdźcie czy kwaśny smak jest już fajnie wyczuwalny. Jeśli jeszcze nie to dolejcie więcej. Musicie zdać się na własne kubki smakowe. Mleko z mąką rozrabiamy dokładnie i wlewamy do zupy. Mieszamy i zagotowujemy całosć. Doprawiamy solą (pamiętajcie, że sok z kapusty był już słony!) i dodajemy cukier. Ja daje około 1 łyżeczki, bo nie lubie zbyt słodkiej zupy. W moim rodzinnym domu kwasek robi się słodszy, więc doprawcie go pod siebie. Na koniec pieprz. Dużo pieprzu i to takiego świeżo zmielonego. Ja śmietankę dodaję już na talerzu, ale możecie dolać ją do garnka i wymieszać z zupą. Lubię gdy jest jej dużo, świetnie komponuje się jej kremowość z kwaśnym posmakiem kapuśnicy, na garnek używam około 150 ml. Kwasek podajemy z makaronem lub ziemniakami i pokrojoną marchewką. Smacznego!
 
