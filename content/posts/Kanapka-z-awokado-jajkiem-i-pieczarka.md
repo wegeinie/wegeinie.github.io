@@ -45,4 +45,4 @@ Awokado zgniatamy widelcem na pastę. Doprawiamy roztartym ząbkiem czosnku, sok
 Przekrojoną na pół bułkę kropimy delikatnie oliwą i rumienimy na patelni lub w piekarniku. 
 W garnku zagotowujemy wodę i gdy zacznie wrzeć dodajemy do niej ocet. Robimy łyżką wirek w który wlewamy jajko i gotujemy około 2 minuty tak by białko było ścięte, ale żółtko pozostało płynne. 
 Na zrumienioną bułkę nakładamy porcję pasty z awokado, na to kładziemy plastry pieczarki i jajko w koszulce. Posypujemy świeżo zmielonym pieprzem i zjadamy z porcją warzyw. 
-![Kanapka z awokado, jajkiem i pieczarką](/img/Kanapka-z-awokado-jajkiem-i-pieczarka/Kanapka-z-awokado-jajkiem-i-pieczarka-3.JPG)
+![Kanapka z awokado, jajkiem i pieczarką](/img/Kanapka-z-awokado-jajkiem-i-pieczarka/Kanapka-z-awokado-jajkiem-i-pieczarka-3.jpg)
