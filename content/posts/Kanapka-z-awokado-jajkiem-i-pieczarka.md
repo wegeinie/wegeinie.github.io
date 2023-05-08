@@ -14,7 +14,7 @@ thumbnailImagePosition: "top"
 ---
 ![Kanapka z awokado, jajkiem i pieczarką](/img/Kanapka-z-awokado-jajkiem-i-pieczarka/Kanapka-z-awokado-jajkiem-i-pieczarka-6.JPG)
 
-Macie czasem wrażenie, że po weekendzie jesteście bardziej zmęczeni niż po całym tygodniu pracy? Ja wiele razy marzyłam, by poniedziałek był dniem wypoczynku po sobocie i niedzieli ;) Niestety trzeba zebrać siły i wrócić do codziennych obowiązków. Dobre śniadanie trochę to ułatwia ;)  No i kawa... duuużo kawy też się przyda ;) 
+Macie czasem wrażenie, że po weekendzie jesteście bardziej zmęczeni niż po całym tygodniu pracy? Ja wiele razy marzyłam, by poniedziałek był dniem wypoczynku po sobocie i niedzieli ;) Niestety trzeba zebrać siły i wrócić do codziennych obowiązków. Dobre śniadanie trochę to ułatwia. No i kawa... duuużo kawy też się przyda. 
 Dzisiaj kanapki na ciepło na bogato, bo z awokado, pieczarkami i jajkiem w koszulce, z płynnym żółtkiem. Teraz możemy odsłonić okna, wpuścić trochę słońca, które po deszczowym weekendzie przywraca chęci do życia... i do pracy ;)  
 <!--more-->
 
