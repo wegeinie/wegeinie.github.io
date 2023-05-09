@@ -10,7 +10,7 @@ tags:
 - drożdżowe
 thumbnailImagePosition: "top"
 ---
-![Bułeczki drożdżowe z marcepanem i czereśniami](/img/Bułeczki-drozdzowe-z-marcepanem-i-czeresniami/Bułeczki-drozdzowe-z-marcepanem-i-czeresniami-1.JPG)
+![Bułeczki drożdżowe z marcepanem i czereśniami](/img/Buleczki-drozdzowe-z-marcepanem-i-czeresniami/Buleczki-drozdzowe-z-marcepanem-i-czeresniami-1.JPG)
 
 Nie jestem wielką fanką słodyczy, ale mam słabość, do drożdżowych wypieków. Gdy uda mi się położyć córkę na drzemkę lubię usiąść z kubkiem kawy i słodką bułeczką chociaż na chwilę i odsapnąć. Zazwyczaj wtedy przygotowuję dla Was przepisy, lub zabieram się za moją drugą pasję czyli haft soutache, którym od kilku lat tworzę biżuterię. Drożdżowe bułeczki są też fajną, wygodną przekąską gdy jedziemy na działkę, lub gdy wybieramy się na dłuższy spacer. No i ten ich zapach... zróbcie sobie koniecznie!
 <!--more-->
