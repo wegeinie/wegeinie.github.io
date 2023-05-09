@@ -2,7 +2,7 @@
 title: "Filety z pstrąga na kremowej polencie z marchewką i groszkiem"
 date: 2023-05-06
 categories:
-- danie główne
+- dania główne
 tags:
 - ryba
 - polenta
