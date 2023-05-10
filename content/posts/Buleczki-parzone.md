@@ -12,7 +12,7 @@ thumbnailImagePosition: "top"
 ---
 ![Bułeczki parzone](/img/Buleczki-parzone/Buleczki-parzone-1.JPG)
 
-Przy przygotowaniu tych bułeczek największą frajdę miała moja córka, która najpierw wsypywała wszystkie składniki do miski, a później ugniatała, rozrywała, sklejała ciasto. Po tych zabawach nawet postanoła, że spróbuje efektów swojej pracy! Dzięki temu, że bułeczki są najpierw parzone w wodzie z cukrem i solą, a następnie pieczone w piekarniku ich skórka nabiera fajnego koloru i delikatnie słodkiego smaku. No i pięknie pękają przy pieczeniu, a to gwarantuje, że zrobią wrażenie na gociach jeśli podanie je na imprezie :) 
+Przy przygotowaniu tych bułeczek największą frajdę miała moja córka, która najpierw wsypywała wszystkie składniki do miski, a później ugniatała, rozrywała, sklejała ciasto. Po tych zabawach nawet postanowiła, że spróbuje efektów swojej pracy! Dzięki temu, że bułeczki są najpierw parzone w wodzie z cukrem i solą, a następnie pieczone w piekarniku ich skórka nabiera fajnego koloru i delikatnie słodkiego smaku. No i pięknie pękają przy pieczeniu, a to gwarantuje, że zrobią wrażenie na gościach jeśli podacie je na imprezie :) 
 
 <!--more-->
 
