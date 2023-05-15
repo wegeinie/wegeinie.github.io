@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Bakłażan zapiekany z serem i sosem pomidorowym"
 date: 2023-05-13
 categories:
@@ -10,7 +10,7 @@ tags:
 - wegańskie
 thumbnailImagePosition: "top"
 ---
-![Bakłażan zapiekany z serem i sosem pomidorowym](/img/Baklazan-zapiekany-z-serem-i-sosem-pomidorowym/Baklazan-zapiekany-z-serem-i-sosem-pomidorowym-2)
+![Bakłażan zapiekany z serem i sosem pomidorowym](/img/Baklazan-zapiekany-z-serem-i-sosem-pomidorowym/Baklazan-zapiekany-z-serem-i-sosem-pomidorowym-2.JPG)
 
 Uwielbiam bakłażany. Od najprostszych upieczonych w całości na grillu, przez baba ghanoush, ratatuj po wersje z ostrymi sosami w stylu azjatyckim. Są delikatne, kremowe i bardzo wszechstronne. Trzeba tylko pamiętać, że wrzucone na patelnię z litrem oliwy zachowają się jak gąbka, a pieczone w plastrach w piekarniku bez soli i chociaż muśnięcia ich oliwą po wierzchu będą suche i twarde. Najsmaczniejsze są małe, młode okazy. Nie mają one charakterystycznej goryczki. Jednak nawet jeśli macie trochę bardziej dojrzały egzemplarz to wystarczy go posolić i odstawić na 10 minut, a następnie opłukać pod wodą. Tym razem szukałam czegoś szybkiego i prostego na obiad, więc padło na pieczone plastry bakłażana z sosem pomidorowym, z dodatkiem serów, które trochę już zalegały w lodówce. Wyszło pysznie!
 
@@ -32,7 +32,7 @@ Uwielbiam bakłażany. Od najprostszych upieczonych w całości na grillu, przez
 
 {{< /alert >}}
 
-![Bakłażan zapiekany z serem i sosem pomidorowym](/img/Baklazan-zapiekany-z-serem-i-sosem-pomidorowym/Baklazan-zapiekany-z-serem-i-sosem-pomidorowym-1)
+![Bakłażan zapiekany z serem i sosem pomidorowym](/img/Baklazan-zapiekany-z-serem-i-sosem-pomidorowym/Baklazan-zapiekany-z-serem-i-sosem-pomidorowym-1.JPG)
 ## Przygotowanie
 
 Bakłażana kroimy wzdłuż na plastry grubości 1,5 cm. Solimy i odstawiamy na 15 minut. Opłukujemy pod bieżącą wodą i osuszamy ręcznikiem. 
@@ -43,4 +43,4 @@ Przed podaniem posypałam bakłażany szczypiorkiem i udekorowałam kwiatami szc
 Dla siebie zrobiłam bakłażana z wegańskim serem, zdjęcie mojej porcji znajdziecie na dole. 
 Zjadamy gorące! Smacznego
 
-![Bakłażan zapiekany z serem i sosem pomidorowym](/img/Baklazan-zapiekany-z-serem-i-sosem-pomidorowym/Baklazan-zapiekany-z-serem-i-sosem-pomidorowym-3)
+![Bakłażan zapiekany z serem i sosem pomidorowym](/img/Baklazan-zapiekany-z-serem-i-sosem-pomidorowym/Baklazan-zapiekany-z-serem-i-sosem-pomidorowym-3.JPG)
