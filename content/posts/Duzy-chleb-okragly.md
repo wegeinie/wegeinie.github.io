@@ -12,7 +12,7 @@ thumbnailImagePosition: "top"
 ---
 ![Duży chleb okrągły](/img/Duzy-chleb-okragly/Duzy-chleb-okragly-1.jpg)
 
-Prosty pszenny chleb to ulubione pieczywo mojego męża i córki. Musi mieć chrupiącą skórkę, być bardzo puszysty i ładnie wyglądać, wtedy znika zanim zdążę się zorientować. Z okazji Światowego Dnia Pieczenia zagościł na naszym śniadaniowym stole. Wyszedł wyjątkowo #pyszny , więc szybko dzielę się więc przepisem!
+Prosty pszenny chleb to ulubione pieczywo mojego męża i córki. Musi mieć chrupiącą skórkę, być bardzo puszysty i ładnie wyglądać, wtedy znika zanim zdążę się zorientować. Z okazji Światowego Dnia Pieczenia zagościł na naszym śniadaniowym stole. Wyszedł wyjątkowo pyszny, więc szybko dzielę się przepisem!
 
 <!--more-->
 
