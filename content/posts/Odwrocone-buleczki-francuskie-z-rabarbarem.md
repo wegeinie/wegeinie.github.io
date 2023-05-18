@@ -12,7 +12,7 @@ thumbnailImagePosition: "top"
 ---
 ![Odwrócone bułeczki francuskie z rabarbarem](/img/Odwrócone-babeczki-francuskie-z-rabarbarem/Odwrocone-buleczki-francuskie-z-rabarbarem-1.jpg)
 
-Chcecie przepis na szybką w przygotowaniu słodką przekązkę z rabarbarem w roli głównej? Te deserki pieczemy go góry nogami. Na spód dajemy cukier, który ładnie się skarmeliuje, a wierch przykrywamy ciastem francuskim. Ono zamienia się w pustą poduchę, gdy nie jest dociśnięte przez owoce i nie moczy się od soku unikamy twardego, niewyrośniętego i mokrego środka. Całość przygotujecie tak szybko, że już nigdy nie przerazi Was nieapowiedziany gość pukający do drzwi, albo nagła ochota na coś słodkiego do kawy! 
+Chcecie przepis na szybką w przygotowaniu słodką przekąskę z rabarbarem w roli głównej? Te deserki pieczemy go góry nogami. Na spód dajemy cukier, który ładnie się skarmelizuje, a wierzch przykrywamy ciastem francuskim. Ono zamienia się w pustą poduchę gdy nie jest dociśnięte przez owoce i nie moczy się od soku. Unikamy twardego, niewyrośniętego i mokrego środka. Całość przygotujecie tak szybko, że już nigdy nie przerazi Was niezapowiedziany gość pukający do drzwi, albo nagła ochota na coś słodkiego do kawy! 
 <!--more-->
 
 ## Składniki na 4 porcje
