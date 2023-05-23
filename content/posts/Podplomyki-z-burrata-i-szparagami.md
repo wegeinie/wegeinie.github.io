@@ -52,4 +52,6 @@ Z mąki, wody i odrobiny mąki robimy zaczyn i odstawiamy na 10 minut. Następni
 Składamy!
 Na drożdżowym podpłomyku rozciągamy burratę, na niej układamy pieczone szparagi, posypujemy startą skórką z cytryny, skrapiamy oliwą cytrynową. Do tego kilka pomidorków koktajlowych i zjadamy!
 
+Filmik z wykonaniem dania możecie obejrzeć [tutaj](https://www.instagram.com/reel/Csk41mHJNuF/?utm_source=ig_web_copy_link&igshid=MmJiY2I4NDBkZg==)
+
 ![Podpłomyki z burratą i szparagami](/img/Podplomyki-z-burrata-i-szparagami/Podplomyki-z-burrata-i-szparagami-2.jpg)
