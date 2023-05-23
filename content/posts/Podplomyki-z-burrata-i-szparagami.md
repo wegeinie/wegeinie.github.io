@@ -36,6 +36,7 @@ Dodatki:
 - oliwa z oliwek (u mnie cytrynowa)
 - skórka z cytryny
 - kilka pomidorków koktajlowych
+- kulki burraty (jedna na porcję)
 
 {{< /alert >}}
 
