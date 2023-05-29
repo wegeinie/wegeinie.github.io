@@ -10,7 +10,7 @@ tags:
 - przekąska
 thumbnailImagePosition: "top"
 ---
-![Szparagi w cieście francuskim](/img/Szparagi-w-ciescie-francuskim/Szparagi-w-ciescie-francuskim-2)
+![Szparagi w cieście francuskim](/img/Szparagi-w-ciescie-francuskim/Szparagi-w-ciescie-francuskim-2.jpg)
 
 Nie macie jeszcze dosyć szparagów? Moja miłość do nich jest tak wielka, że nie potrafię się opanować i kupuję kolejne pęczki jak tylko je widzę. Tym razem przygotowałam z nich chrupiącą przekąskę, idealną na imprezę, albo na wieczór filmowy. Zapiszcie przepis, bo wyszło pysznie!
 <!--more-->
@@ -26,13 +26,13 @@ Nie macie jeszcze dosyć szparagów? Moja miłość do nich jest tak wielka, że
 
 {{< /alert >}}
 
-![Szparagi w cieście francuskim](/img/Szparagi-w-ciescie-francuskim/Szparagi-w-ciescie-francuskim-2)
+![Szparagi w cieście francuskim](/img/Szparagi-w-ciescie-francuskim/Szparagi-w-ciescie-francuskim-1.jpg)
 ## Przygotowanie
 
 Łamiemy i obieramy z łusek szparagi
 Zawijamy w szynkę (każda dojrzewająca się nada. Może też być bekon)
 Zawijamy w paski ciasta francuskiego
 Smarujemy oliwą (zwłaszcza główki), żeby się nie spaliły
-Posypujemy solą i sezamem i pieczemy 15 minut w piekarnika nagrzanym do 180 stopni
+Posypujemy solą (nie za dużo, szynka jest już słona) i sezamem i pieczemy 15 minut w piekarnika nagrzanym do 180 stopni
 Super smakuje na ciepło i na zimno
 Podawajcie z pomidorkami koktajlowymi do przegryzania. Smacznie, prosto, szybko.
