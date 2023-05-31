@@ -19,12 +19,12 @@ Przynajmniej do obiadu zostaje więcej dla mnie ❤️
 
 ## Składniki
 {{< alert success no-icon >}}
--1 główka młodej kapusty
+- 1 główka młodej kapusty
 - Pęczek koperku
 - 3-4 łyżki masła lub oleju
--1 łyżka mąki
--1 płaska łyżeczka cukru
--3/4 płaskiej łyżeczki soli (możecie dać na początek mniej i doprawić do smaku gdy kapustka będzie już gotowa
+- 1 łyżka mąki
+- 1 płaska łyżeczka cukru
+- 3/4 płaskiej łyżeczki soli (możecie dać na początek mniej i doprawić do smaku gdy kapustka będzie już gotowa
 
 {{< /alert >}}
 
