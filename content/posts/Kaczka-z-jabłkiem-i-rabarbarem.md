@@ -39,6 +39,6 @@ Najpierw solanka. Przygotowujemy ją  podanych składników i zalewamy mięso. O
 
 Na dno naczynia żaroodpornego układamy pokrojone w kawałki jabłko i rabarbar, polewamy miodem, posypujemy oberwanymi listkami z tymianku i wrzucamy zgnieciony ząbek czosnku.
 Piersi z kaczki osuszamy i nacinamy skórę w kratkę tak by nie przeciąć mięsa. Układamy je na zimnej patelni skórą do dołu i włączamy mały gaz. Wytapiany tłuszcz i w razie potrzeby odlewamy go. Zostawcie go do innego dania, jest w nim mnóstwo smaku. Gdy skóra będzie rumiana, a tłuszcz wytopiony przewracamy na chwilę na drugą stronę i przekładamy do naczynia (skórką do góry) i wsuwamy do piekarnika.
-Pieczemy przez 30 minut w 200 stopniach pod przykryciem, a następnie 10 minut bez przykrycia.
+Pieczemy przez 30 minut w 180 stopniach pod przykryciem, a następnie 10 minut bez przykrycia.
 Przed podaniem odkładamy na 10 minut by mięso odpoczęło.
 ![Kaczka z jabłkiem i rabarbarem](/img/Kaczka-z-jabłkiem-i-rabarbarem/Kaczka-z-jabłkiem-i-rabarbarem-3.jpg)
