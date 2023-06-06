@@ -16,6 +16,8 @@ Lubicie rabarbar? Ja jak tylko zobaczyłam pierwsze łodygi na targu musiałam g
 ## Składniki
 {{< alert success no-icon >}}
 - 500g mięsa z kaczki (u nie kawałki piersi i skrzydełka)
+
+
 Solanka:
 - 1l wody
 - 1 łyżka soli
