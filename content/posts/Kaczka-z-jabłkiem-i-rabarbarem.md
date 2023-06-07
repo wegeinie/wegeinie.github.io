@@ -10,7 +10,7 @@ thumbnailImagePosition: "top"
 ---
 ![Kaczka z jabłkiem i rabarbarem](/img/Kaczka-z-jabłkiem-i-rabarbarem/Kaczka-z-jabłkiem-i-rabarbarem-1.jpg)
 
-Lubicie rabarbar? Ja jak tylko zobaczyłam pierwsze łodygi na targu musiałam go kupić. Miało z niego powstać jakieś ciasto... ale nie mogłam się jakoś za nie zabrać. Mąż zażyczyła sobie na obiad kaczkę... miała być pieczona radycyjnie z jabłkiem... ale po prostu nie mogłam. Musiałam dodać do nich ten kwaśny rarytas. Kaczka lubi takie dodatki! musicie spróbować!
+Lubicie rabarbar? Ja jak tylko zobaczyłam pierwsze łodygi na targu musiałam go kupić. Miało z niego powstać jakieś ciasto... ale nie mogłam się jakoś za nie zabrać. Mąż zażyczył sobie na obiad kaczkę... miała być pieczona radycyjnie z jabłkiem... ale po prostu nie mogłam. Musiałam dodać do nich ten kwaśny rarytas. Kaczka lubi takie dodatki! Musicie spróbować!
 <!--more-->
 
 ## Składniki
