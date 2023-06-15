@@ -14,6 +14,7 @@ thumbnailImagePosition: "top"
 Podobno dań idealnych się nie poprawia.... ale gdyby tak unowocześnić pyry z gzikiem?
 Pieczone, chrupiące, pachnące ziemniaczki, twarożek ze szczypiorkiem. Wyszło tak dobre, że odważę się narazić poznaniakom!
 Pyszne, proste, szybkie i na każdą kieszeń!
+Jeśli jesteście wiązani z tradycyjną wersją, to ta jest na stronie [tutaj](https://wegeinie.pl/2023/04/pyry-z-gzikiem/)
 <!--more-->
 
 ## Składniki
