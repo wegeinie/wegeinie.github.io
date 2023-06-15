@@ -37,7 +37,7 @@ Gzik
 
 {{< /alert >}}
 
-![Chrupiące ziemniaczki z gzikiem](/img/Chrupiace-ziemniaczki-z-gzikiem/Chrupiace-ziemniaczki-z-gzikiem-1.jpg)
+![Chrupiące ziemniaczki z gzikiem](/img/Chrupiace-ziemniaczki-z-gzikiem/Chrupiace-ziemniaczki-z-gzikiem-2.jpg)
 ## Przygotowanie
 
 Ziemniaki gotujemy w mundurkach aż będą miękkie, przesypujemy na blachę i rozgniatamy dnem szklanki.
