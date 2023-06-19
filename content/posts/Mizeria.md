@@ -12,7 +12,7 @@ thumbnailImagePosition: "top"
 ---
 ![Mizeria](/img/Mizeria/Mizeria-1.jpg)
 
-Kocham kuchnię polską. Najczęściej gotuję dosyć tradycyjnie, co nie znaczy, że nudno, bo przecież czasami tak niewiele treba, żeby klasyczne danie amienić w dieło sztuki. jedliście kiedyś ogórki ze śmietaną? A może by tak podać je trochę inaczej? Dzisiaj dekonstrukcja tradycyjnej polskiej mizerii. Roladki ogórkowe z bitą śmietaną z solą. Zielona od gałązek koperku, udekorowana jadalnymi kwiatami szczypiorku. Jak to zrobić?
+Kocham kuchnię polską. Najczęściej gotuję dosyć tradycyjnie, co nie znaczy, że nudno, bo przecież czasami tak niewiele trzeba, żeby klasyczne danie zamienić w dzieło sztuki. Jedliście kiedyś ogórki ze śmietaną? A może by tak podać je trochę inaczej? Dzisiaj dekonstrukcja tradycyjnej polskiej mizerii. Roladki ogórkowe z bitą śmietaną z solą. Zielona od gałązek koperku, udekorowana jadalnymi kwiatami szczypiorku. Jak to zrobić?
 
 <!--more-->
 
