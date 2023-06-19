@@ -26,7 +26,7 @@ Kocham kuchnię polską. Najczęściej gotuję dosyć tradycyjnie, co nie znaczy
 
 {{< /alert >}}
 
-![Mizeria](/img/Mizeria/Mizeria-1.jpg)
+![Mizeria](/img/Mizeria/Mizeria-2.jpg)
 ## Przygotowanie
 Ogórka kroimy w długie paski na mandolinie lub obieraczką do warzyw.
 Posypujemy solą i odkładamy (będzie łatwiej się zawijać)
