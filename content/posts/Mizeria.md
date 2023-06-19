@@ -28,10 +28,7 @@ Kocham kuchnię polską. Najczęściej gotuję dosyć tradycyjnie, co nie znaczy
 
 ![Mizeria](/img/Mizeria/Mizeria-2.jpg)
 ## Przygotowanie
-Ogórka kroimy w długie paski na mandolinie lub obieraczką do warzyw.
-Posypujemy solą i odkładamy (będzie łatwiej się zawijać)
-W tym czasie ubijamy śmietanę z solą
-Ogórki zawijamy i do każdej rolki rękawem cukierniczym nakładamy porcję śmietany. Dekorujemy koperkiem i kwiatami szczypiorku
+Ogórka kroimy w długie paski na mandolinie lub obieraczką do warzyw. Posypujemy solą i odkładamy (będzie łatwiej się zawijać). W tym czasie ubijamy śmietanę z solą. Ogórki zawijamy i do każdej rolki rękawem cukierniczym nakładamy porcję śmietany. Dekorujemy koperkiem i kwiatami szczypiorku.
 
 Wygląda jak danie restauracyjne?
 Smakuje jak nasza ukochana mizeria!
