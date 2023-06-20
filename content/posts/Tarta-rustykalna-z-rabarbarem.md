@@ -37,8 +37,8 @@ Nadzienie:
 ![Tarta rustykalna z rabarbarem](/img/Tarta-rustykalna-z-rabarbarem/Tarta-rustykalna-z-rabarbarem-2.jpg)
 ## Przygotowanie
 
-Z podanych składników zagniatamy ciasto. Staramy się jak najmniej ogrzać je dłońmi, więc robimy to szybko, pomagając sobie łyżką. Ja moją tartę zrobiłam z połowy porcji, dwugą część zamroziłam, by mieć na niespodziewanych gości, ale jeśli chcecie możecie zrobic większą tartę. Zwiększcie wówczas ilość nadzienia. Ciasto odkładamy do lodówki na godzinę. 
-W tym czasie kroimy rabarbar, obsypujemy go cukrem i mąką ziemniaczaną
+Z podanych składników zagniatamy ciasto. Staramy się jak najmniej ogrzać je dłońmi, więc robimy to szybko, pomagając sobie łyżką. Ja moją tartę zrobiłam z połowy porcji, drugą część zamroziłam, by mieć na niespodziewanych gości, ale jeśli chcecie możecie zrobic większą tartę... albu upiec od razu dwie. Zwiększcie wówczas ilość nadzienia. Ciasto odkładamy do lodówki na godzinę. 
+W tym czasie kroimy rabarbar, obsypujemy go cukrem i mąką ziemniaczaną.
 Ciasto rozwałkowujemy na papierze do pieczenia starając się stworzyć w miarę okrągły placek o grubości do 1 cm. 
 Wykładamy na środek rabarbar, rozkładamy równo i zawijamy brzegi pomagając sobie papierem. 
 Obsypujemy orzechami i wsuwamy do piekarnika nagrzanego do 180 stopni na około 35-40 minut. Ciasto powinno się ładnie zarumienić. 
@@ -47,5 +47,7 @@ Obsypujemy orzechami i wsuwamy do piekarnika nagrzanego do 180 stopni na około 
 
 Gdy wystygnie obsypujemy cukrem pudrem i podajemy z kleksem bitej śmietany.
 Ja lubię desery dekorować jadalnymi kwiatami. Obecnie na moim balkonie kwitną pięknie bratki, więc wylądowały też na talerzu. Smacznego!
+
+Jeśli chcecie dokładnie zobaczyć jak zawinąć tartę filmik z jej przygotowania obejrzycie [tutaj](https://www.instagram.com/reel/Ctq0qHGtt0I/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
 
 ![Tarta rustykalna z rabarbarem](/img/Tarta-rustykalna-z-rabarbarem/Tarta-rustykalna-z-rabarbarem-4.jpg)
