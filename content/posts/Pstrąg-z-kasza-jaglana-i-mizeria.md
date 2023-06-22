@@ -43,7 +43,7 @@ Kaszę jaglaną przelewamy wrzątkiem by pozbyć sie goryczki. Przekładamy do g
 
 W tym czasie przygotowujemy mizerię. Dokładny sposób przygotowania znajdziecie klikając w [link](https://wegeinie.pl/2023/06/mizeria/)
 
-Ma patelni rozgrzewamy łyżkę masła i układamy na niej posolonego z dwóch stron pstrąga skórą do dołu. Jeśli wasz filet nie jest zbyt gruby, to wystarczy, że przykryjecie patelnię i zostawicie go na niej na 5-6 minut. Nie ma konieczności przewracania. Dokładamy drugą łyżkę masła i gdy się roztopi polewamy rybę od góry. Gotowe. Jeśli macie ochotę na dodatkowy sos to zapraszam do wcześniejszych przepisów [na sos śmietanowy z kaparami](https://wegeinie.pl/2023/03/filety-z-pstr%C4%85ga-w-sosie-%C5%9Bmietanowym-z-chrupi%C4%85cymi-kaparami/ lub [paprykowe masło](https://wegeinie.pl/2023/05/filety-z-pstr%C4%85ga-na-kremowej-polencie-z-marchewk%C4%85-i-groszkiem/)
+Ma patelni rozgrzewamy łyżkę masła i układamy na niej posolonego z dwóch stron pstrąga skórą do dołu. Jeśli wasz filet nie jest zbyt gruby, to wystarczy, że przykryjecie patelnię i zostawicie go na niej na 5-6 minut. Nie ma konieczności przewracania. Dokładamy drugą łyżkę masła i gdy się roztopi polewamy rybę od góry. Gotowe. Jeśli macie ochotę na dodatkowy sos to zapraszam do wcześniejszych przepisów [na sos śmietanowy z kaparami](https://wegeinie.pl/2023/03/filety-z-pstr%C4%85ga-w-sosie-%C5%9Bmietanowym-z-chrupi%C4%85cymi-kaparami/) lub [paprykowe masło](https://wegeinie.pl/2023/05/filety-z-pstr%C4%85ga-na-kremowej-polencie-z-marchewk%C4%85-i-groszkiem/)
 
 Przekładamy na talerz i zjadamy! 
 Smacznego!
