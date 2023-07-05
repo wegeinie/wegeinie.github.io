@@ -9,12 +9,12 @@ tags:
 - twaróg
 thumbnailImagePosition: "top"
 ---
-![Kotleciki a'la ruskie](/img/Kotleciki-ala-ruskie/Kotleciki-ala-ruskie-1.jpg)
+![Kotleciki a'la ruskie](/img/Kotleciki-ala-ruskie/Kotleciki-ala-ruskie-2.jpg)
 
-Masz ochotę na szybki, letni i sycący obiad? Zrób kotleciki a'la ruskie!
-Najlepiej podaj je z kwaśną śmietaną, skwarkami, młodymi pędami czosnku i koperkiem.
+Masz ochotę na szybki, letni, ale też sycący obiad? Zrób kotleciki a'la ruskie!
+Najlepiej podaj je z kwaśną śmietaną, skwarkami, młodymi pędami czosnku (albo sczypiorkiem) i koperkiem.
 To jest idealny pomysł dla wszystkich, którzy lubią pierogi ruskie, ale nie mają czasu ich lepić.
-Gdy raz ich spróbijesz wylądują w Twoim menu na stałe
+Gdy raz ich spróbujesz wylądują w Twoim menu na stałe. Jest to też fajny sposób na wykorzystanie ziemniaków, które zostały z obiadu.
 
 <!--more-->
 Trzymajcie się kilku zasad! Twarogu powinno być przynajmniej tyle co ziemniaków, cebulka musi być rumiana a pieprz pachnący, najlepiej świeżo zmielony. Podczas smażenia nie dotykajcie kotletów aż się ładnie zrumienią. Nie podglądajcie, nie przesuwanie, bo się rozpadną. Najdelikatniejsze będą świeżo usmażone, ale możecie ich zrobić więcej, odgrzać następnego dnia, zabrać do pracy albo zamrozić. Będą trochę bardziej zbite ale nadal pyszne.
@@ -37,7 +37,7 @@ Dodatki:
 
 {{< /alert >}}
 
-![Kotleciki a'la ruskie](/img/Kotleciki-ala-ruskie/Kotleciki-ala-ruskie-2.jpg)
+![Kotleciki a'la ruskie](/img/Kotleciki-ala-ruskie/Kotleciki-ala-ruskie-1.jpg)
 
 ## Przygotowanie
 
