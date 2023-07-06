@@ -13,6 +13,9 @@ thumbnailImagePosition: "top"
 Słyszeliście kiedyś o Dutch Baby? To mocno wyrośnięty, puszysty pieczony naleśnik podawany najczęściej na słodko, z owocami. Tak też my go lubimy najbardziej. Prawdopodobnie pochodzi z Niemiec, następnie powędrował do Stanów Zjednoczonych i tam zdobył popularność. Jest bardzo prosty do przygotowania i jeśli lubicie słodkie śniadania to zapiszcie koniecznie ten przepis. Tego trzeba spróbować!
 No to do dzieła!
 <!--more-->
+
+<a href="https://www.ceneo.pl/Male_AGD_do_domu#pid=26977&crid=623407&cid=46110" rel="nofollow" target="_blank"><img alt="Małe AGD do domu - porównaj ceny" src="https://image2.ceneo.pl/data/banners/banner_3421.jpg"></img></a>
+
 ## Składniki
 {{< alert success no-icon >}}
 - 3 jajka
