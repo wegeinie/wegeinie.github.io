@@ -14,16 +14,12 @@ Słyszeliście kiedyś o Dutch Baby? To mocno wyrośnięty, puszysty pieczony na
 No to do dzieła!
 <!--more-->
 
+{{< rawhtml >}}
 <a href="https://www.ceneo.pl/Male_AGD_do_domu#pid=26977&crid=623407&cid=46110" rel="nofollow" target="_blank">
 <img alt="Małe AGD do domu - porównaj ceny" src="https://image2.ceneo.pl/data/banners/banner_3421.jpg">
 </img>
 </a>
-
-<table>
-    <tr>
-        <td>ceneo.pl</td>
-    </tr>
-</table>
+{{< /rawhtml >}}
 
 ## Składniki
 {{< alert success no-icon >}}
