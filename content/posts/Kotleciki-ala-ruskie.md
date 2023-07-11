@@ -46,6 +46,6 @@ Dodajemy podsmażoną cebulkę, sól i pieprz i mąkę. Mieszamy i lepimy kotlet
 Smażymy na rozgrzanym oleju
 Smacznego!
 
-Jeśli chcecie zobaczyć jak udekorować i ulepić kotleciki zajrzyjcie [tutaj](https://www.instagram.com/reel/CuT6kp7veOJ/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
+Jeśli chcecie zobaczyć jak udekorować i ulepić kotleciki zajrzyjcie [tutaj](https://www.instagram.com/reel/CuT2tPmt50b/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
 
 ![Kotleciki a'la ruskie](/img/Kotleciki-ala-ruskie/Kotleciki-ala-ruskie-3.jpg)
