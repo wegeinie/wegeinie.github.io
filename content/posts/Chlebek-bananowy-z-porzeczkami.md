@@ -46,6 +46,7 @@ Po wyjęciu z piekarnika pozwalamy chlebkowi trochę ostygnąć. Ja lubię go zj
 ![Chlebek bananowy z porzeczkami](/img/Chlebek-bananowy-z-porzeczkami/Chlebek-bananowy-z-porzeczkami-4.jpg)
 
 Smakuje też świetnie bez dodatków, popijany gorącą kawą. Dzięki dodakowi bananów długo zachowuje świeżość i możecie go śmiało zabrać ze sobą do pracy. 
+Filmik z wykonaniem ciasta możecie obejrzeć [tutaj](https://www.instagram.com/reel/CujUAuTNkcf/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
 
 
 ![Chlebek bananowy z porzeczkami](/img/Chlebek-bananowy-z-porzeczkami/Chlebek-bananowy-z-porzeczkami-5.jpg)
