@@ -48,4 +48,4 @@ Po wyjęciu z piekarnika pozwalamy chlebkowi trochę ostygnąć. Ja lubię go zj
 Smakuje też świetnie bez dodatków, popijany gorącą kawą. Dzięki dodakowi bananów długo zachowuje świeżość i możecie go śmiało zabrać ze sobą do pracy. 
 
 
-![Ciasto czekoladowe z truskawkami](/img/Ciasto-czekoladowe-z-truskawkami/Ciasto-czekoladowe-z-truskawkami-5.jpg)
+![Chlebek bananowy z porzeczkami](/img/Chlebek-bananowy-z-porzeczkami/Chlebek-bananowy-z-porzeczkami-5.jpg)
