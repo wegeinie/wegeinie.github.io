@@ -16,6 +16,40 @@ thumbnailImagePosition: "top"
 Mam słabość do kuchni polskiej. Uważam, że nie do końca potrafimy ją docenić. Zachwycamy się kuchniami świata i zapominamy czasem o tym, że dobrze przygotowane danie, które znały już nasze Babcie potrafi sprawić, że nasze kubki smakowe oszaleją. Słyszałam kiedyś zabawne określenie, że polskie gołąbki to taka nasza wersja meksykańskiego burrito. Ja tem uważam, że są dużo lepsze! Dzisiaj podam Wam przepis na ich wersję premium! Zawinięte w młodą kapustę, z dodatkiem pachnącej wędzonki i podkręcone przyprawami. Do tego łycha sosu chrzanowego. Już Wam ślinka cieknie? No to do konkretów: 
 <!--more-->
 
+{{< rawhtml >}}
+<div id="ceneoaffcontainer624375"></div>
+<a id="ceneoaff-logo" title="Ceneo.pl" href="https://www.ceneo.pl/#pid=26977&crid=624375&cid=46110" rel="nofollow"><img style="border:0;width:1px;height:1px;" src="//image.ceneostatic.pl/data/custom_images/4917/custom_image.png" alt="Ceneo.pl" /></a>
+<script type="text/javascript" charset="utf-8">
+	if (typeof CeneoAPOptions == "undefined" || CeneoAPOptions == null)
+	{
+	var CeneoAPOptions = new Array(); 
+	stamp = parseInt(new Date().getTime()/86400, 10);
+	var script = document.createElement("script");
+	script.setAttribute("type", "text/javascript");
+	script.setAttribute("src", "//partnerzyapi.ceneo.pl/External/ap.js?"+stamp);
+	script.setAttribute("charset", "utf-8");
+	var head = document.getElementsByTagName("head")[0];
+	head.appendChild(script);
+	}
+	CeneoAPOptions[CeneoAPOptions.length] =
+	{
+		ad_creation: 624375,
+		ad_channel: 46110,
+		ad_partner: 26977,
+		ad_type: 1,
+		ad_content: '1281,4496',
+		ad_format: 1,
+		ad_newpage: true,
+		ad_basket: true,
+		ad_container: 'ceneoaffcontainer624375',
+		ad_formatTypeId: 1,
+		ad_contextual: false, 
+		ad_recommended: false, 
+		ad_showRank: false 
+	};
+</script>
+{{< /rawhtml >}}
+
 ## Składniki:
 {{< alert success no-icon >}}
 - Główka młodej kapusty (sparzone wierzchnie liście)
