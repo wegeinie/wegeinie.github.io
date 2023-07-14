@@ -44,7 +44,7 @@ Do posypania
 
 {{< /alert >}}
 
-![Makaron w sosie cukiniowym](/img/Makaron-w-sosie-cukiniowym/Makaron-w-sosie-cukiniowym-1.jpg)
+![Makaron w sosie cukiniowym](/img/Makaron-w-sosie-cukiniowym/Makaron-w-sosie-cukiniowym-2.jpg)
 
 ## Przygotowanie
 Makaron gotujemy al dente.
