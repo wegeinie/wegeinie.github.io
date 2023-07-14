@@ -19,6 +19,10 @@ Gdy raz ich spróbujesz wylądują w Twoim menu na stałe. Jest to też fajny sp
 <!--more-->
 Trzymajcie się kilku zasad! Twarogu powinno być przynajmniej tyle co ziemniaków, cebulka musi być rumiana, a pieprz pachnący, najlepiej świeżo zmielony. Podczas smażenia nie dotykajcie kotletów aż się ładnie zrumienią. Nie podglądajcie, nie przesuwajcie, bo się rozpadną. Najdelikatniejsze będą świeżo usmażone, ale możecie ich zrobić więcej, odgrzać następnego dnia, zabrać do pracy albo zamrozić. Będą trochę bardziej zbite ale nadal pyszne.
 
+{{< rawhtml >}}
+<a href="https://www.ceneo.pl/Zmywarki#pid=26977&crid=624474&cid=46110" rel="nofollow" target="_blank"><img alt="Zmywarki wolnostojące - wybierz na Ceneo" src="https://image2.ceneo.pl/data/banners/banner_3459.jpg"></img></a>
+{{< /rawhtml >}}
+
 
 ## Składniki na dwie porcje
 {{< alert success no-icon >}}
