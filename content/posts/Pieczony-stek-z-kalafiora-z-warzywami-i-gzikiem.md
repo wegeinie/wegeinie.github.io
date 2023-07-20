@@ -1,6 +1,6 @@
 ﻿---
 title: "Pieczony stek z kalafiora z warzywami i gzikiem"
-date: 2023-06-14
+date: 2023-07-18
 categories:
 - dania główne
 tags:
