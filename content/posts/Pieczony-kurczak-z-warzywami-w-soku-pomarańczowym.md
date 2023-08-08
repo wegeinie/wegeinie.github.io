@@ -61,9 +61,8 @@ Szybki obiad z piekarnika? Może pieczony kurczak z warzywami? Za prosto? No to 
 
 {{< /alert >}}
 
-![Kaczka w pomarańczach](/img/kaczka-w-pomaranczach/kaczka-w-pomaranczach-3.JPG)
+![Pieczony kurczak z warzywami w soku pomarańczowym](/img/Pieczony-kurczak-z-warzywami-w-soku-pomarańczowym/Pieczony-kurczak-z-warzywami-w-soku-pomarańczowym-2.jpg)
+
 ## Przygotowanie
 Na dnie naczynia żaroodpornego układamy umyte, małe ziemniaczki i obrane marchewki. Na nich układamy kawałki kurczaka. Mięso nacinamy, wkładamy w nacięcia plasterki czosnku, a skórkę smarujemy sosem sambal oelek, albo innym słodko- pikantnym i solimy. Pod mięso wsuwamy gałązkę mięty i całość podlewamy sokiem pomarańczowym (na początek pół szklanki, jeśli odparuje to podlewamy w trakcie pieczenia. Naczynie przykrywamy i wstawiamy do nagrzanego do 180 stopni piekarnika.
 Pieczemy w zależności od wielkości kawałków około 40 minut. Przed końcem możemy zdjąć pokrywkę i podpiec 10 minut z funkcją grilla (albo z włączoną górną grzałką). Podałam danie posypane świeżą miętą i szczypiorkiem. Wyszło pyszne! Mięso pozostało bardzo soczyste i pełne aromatów.
-
-![Pieczony kurczak z warzywami w soku pomarańczowym](/img/Pieczony-kurczak-z-warzywami-w-soku-pomarańczowym/Pieczony-kurczak-z-warzywami-w-soku-pomarańczowym-1.jpg)
