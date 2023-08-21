@@ -79,21 +79,21 @@ Do podania:
 
 ![Sushi](/img/Sushi/Sushi-2.jpg)
 ## Przygotowanie
-Najważniejszy jest ryż do sushi i algi nori. Ja kupuję duże opakowania - opłaca się to bardziej i wyrzucamy mniej plastiku. Poza tym mam większy wybór. Najbardziej lubię silver nori (nie są takie cieniutkie i jak dla mnie  smaczniejsze, ale to kwestia gustu). 
+Najważniejszy jest ryż do sushi i algi nori. Ja kupuję duże opakowania - opłaca się to bardziej i wyrzucamy mniej plastiku. Poza tym mam większy wybór. Najbardziej lubię silver nori (nie są takie cieniutkie i jak dla mnie smaczniejsze, ale to kwestia gustu). 
 
 Ryż obowiązkowo dokładnie płuczemy. 1 szklankę suchego ryżu zalewamy 1 i 1/5 szklanki wody, odstawiamy na 20 minut. Gotujemy pod przykryciem aż wchłonie cały płyn. Następnie zostawiamy na 10-15 minut
-W tym czasie przygotowujemy zalewę! Mieszamy dokładnie jej skłądniki, aż dobrze się ropuszczą. Możecie ją delikatnie podgrzać, będzie łatwiej. 
+W tym czasie przygotowujemy zalewę! Mieszamy dokładnie jej skłądniki, aż dobrze się rozpuszczą. Możecie ją delikatnie podgrzać, będzie łatwiej. 
 Zalewamy gorący ryż, mieszamy i odstawiamy do wystudzenia.
 
 W tym czasie kroimy dodatki.
 Dla mnie obowiązkowe to majonez albo kremowy serek, ogórek, szczypiorek, awokado i wędzone tofu (mąż woli łososia albo krewetki). Dla koloru dodałam jeszcze zblanszowaną marchewkę i sałatę. Lubię też dodatek pieczonego buraczka, który dodaje fajnej słodyczy, ale akurat nie miałam pod ręką. 
 
-Ryż rozkładamy zwilżonymi dłońmi (mniej się przykleja). Smarujemy do majonezem lub serkiem i układamy wszystkie dodatki (najlepiej ułożyć wdłuż brzegu, od którego zaczniemy skręcanie). Rolki zawijamy ciasno pomagając sobie matą. Jeszcze trochę sezamu i gotowe! To najprostsze rolki, ale satysfakcja z przygotowania ich samodzielnie - bezcenna!
+Ryż rozkładamy zwilżonymi dłońmi (mniej się przykleja). Smarujemy go majonezem lub serkiem i układamy wszystkie dodatki (najlepiej ułożyć wdłuż brzegu, od którego zaczniemy skręcanie). Rolki zawijamy ciasno pomagając sobie matą. Jeszcze trochę sezamu i gotowe! To najprostsze rolki, ale satysfakcja z przygotowania ich samodzielnie - bezcenna!
 Podajemy z sosem sojowym, wasabi i marynowanym imbirem.
 
 ![Sushi](/img/Sushi/Sushi-3.jpg)
 
-Zawijanie sushi na początku może wydawać się trudne. Nie zrażajcie się, jeśli pierwsze rolki się rozpadną. Przełóżcie je wtedy do miski, polejcie sosem sojowym i zróbcie sushi bowl. 
+Zawijanie sushi na początku może wydawać się trudne. Nie zrażajcie się, jeśli pierwsze rolki się rozpadną. Przełóżcie je do miski, polejcie sosem sojowym i zróbcie sushi bowl. 
 Jeśli chcecie podejrzeć jak zawijać rolkę klinijcie [tutaj!](https://www.instagram.com/reel/CwDTAZYoxcf/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
 
 ![Sushi](/img/Sushi/Sushi-4.jpg)
