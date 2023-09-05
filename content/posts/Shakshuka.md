@@ -11,7 +11,7 @@ thumbnailImagePosition: "top"
 ---
 ![Shakshuka](/img/Shakshuka/Shakshuka-1.jpg)
 
-Kocham podróże! Najchętniej spędziłabym pół życia na walizkach, ale jak narazie, gdy nie mogę sobie na to pozwolić podróżuję kulinarnie! Przez smak poznaję dalekie kraje, odmienne kultury i zakochuję się w nich coraz bardziej. Tym razem, podczas śniadania, przeniosłam nas do krajów Bliskiego Wschodu. Wynalezieniem shakshuki chwali się zarówno Izrael, Tunezja, Egipt czy Maroko. Ja lubię ją delikatnie pikantną, tak by od rana rozbudzić kubki smakowe i zacząć dzień z przytupem!
+Kocham podróże! Najchętniej spędziłabym pół życia na walizkach, ale jak na razie, gdy nie mogę sobie na to pozwolić podróżuję kulinarnie! Przez smak poznaję dalekie kraje, odmienne kultury i zakochuję się w nich coraz bardziej. Tym razem, podczas śniadania, przeniosłam nas do krajów Bliskiego Wschodu. Wynalezieniem shakshuki chwali się zarówno Izrael, Tunezja, Egipt czy Maroko. Ja lubię ją delikatnie pikantną, tak by od rana rozbudzić kubki smakowe i zacząć dzień z przytupem!
 
 <!--more-->
 {{< rawhtml >}}
