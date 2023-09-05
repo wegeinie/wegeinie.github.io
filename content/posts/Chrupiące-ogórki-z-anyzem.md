@@ -54,16 +54,16 @@ Jeśli tak jak ja nie jesteście fanami sałatek na słodko i lubicie jak coś c
 - Około 2 kg ogórków
 
 Zalewa:
-1 l wody
-4 płaskie łyżki soli
-150-180 ml octu jabłkowego
+- 1 l wody
+- 4 płaskie łyżki soli
+- 150-180 ml octu jabłkowego
 
 
 Do każdego słoika 0,5 l.
-2 ząbki czosnku
-2 gwiazdki anyżu
-1 łyżeczka ziaren kolendry
-Gałązka kopru (razem z kwiatami)
+- 2 ząbki czosnku
+- 2 gwiazdki anyżu
+- 1 łyżeczka ziaren kolendry
+- Gałązka kopru (razem z kwiatami)
 
 {{< /alert >}}
 ![Chrupiące ogórki z anyżem](/img/Chrupiące-ogórki-z-anyzem/Chrupiące-ogórki-z-anyzem-4.jpg)
