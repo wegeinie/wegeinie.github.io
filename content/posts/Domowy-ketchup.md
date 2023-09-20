@@ -9,7 +9,7 @@ tags:
 - ketchup
 thumbnailImagePosition: "top"
 ---
-![Domowy ketchup](/img/Domowy-ketchup/Domowy-ketchup-2.jpg)
+![Domowy ketchup](/img/Domowy-ketchup/20230913_130522.jpg)
 
 Już nigdy sklepowy ketchup nie będzie smakować Tobie tak samo! Zrób domowy, pachnący, mocno pomidorowy, zdrowszy i doprawiony tak jak lubicie! Będzie idealny na śniadanie do parówek, tostów, zapiekanek, frytek. Doda smaku grillowanym smakołykom, a może posłuży jako intensywną marynata? Jaki masz na niego pomysł?🤔
 
