@@ -30,11 +30,11 @@ Drożdże po podsmażeniu stają się nieaktywne i nie podrażniają jelit, za t
 
 {{< /alert >}}
 
-![![Pasta drożdżowa na kanapki](/img/Pasta-drozdzowa-na-kanapki/Pasta-drozdzowa-na-kanapki-2.jpg))
+![Pasta drożdżowa na kanapki](/img/Pasta-drozdzowa-na-kanapki/Pasta-drozdzowa-na-kanapki-2.jpg)
 ## Przygotowanie
 
 Cebulkę siekamy drobno i podsmażamy na oleju. Gdy zacznie się rumienić dodajemy do niej pokruszone drożdże i wodę. Czekamy aż drożdże się rozpuszczą, a następnie zredukują do konsystencji pasty. Solimy do smaku i gotowe. Można pastę odstawić do lodówki, tam lekko stężeje, ale my zawsze połowę zjadamy prosto z patelni z domowym chlebem.
 
 Aż trudno uwierzyć, że coś tak prostego może być tak pyszne!
 
-![![Pasta drożdżowa na kanapki](/img/Pasta-drozdzowa-na-kanapki/Pasta-drozdzowa-na-kanapki-3.jpg))
+![Pasta drożdżowa na kanapki](/img/Pasta-drozdzowa-na-kanapki/Pasta-drozdzowa-na-kanapki-3.jpg)
