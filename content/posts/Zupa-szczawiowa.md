@@ -10,7 +10,7 @@ thumbnailImagePosition: "top"
 ---
 ![Zupa szczawiowa](/img/Zupa-szczawiowa/Zupa-szczawiowa-1.jpg)
 
-Zdradzę Wam sekret - za najsmaczniejsze i najzdrowsze jedzenie nie zapłacisz w sklepie. Znajdziesz je podczas spaceru! Kto z nas nie zna smaku zupy szczawiowej? Robiła ją Mama? Babcia? Te niepozorne zielone listki to jeden z naszych niedocenianych skarbów. Są kwaśne, orzeźwiające , a zupa z nich przygotowana to jedno z tych dań, po które sięgam co roku, które przypominają mi dzieciństwo. Takie comfort food, ale trochę po mojemu. Zupę podaję w formie kremu, z dodatkiem tradycyjnego jajka, kwaśnej śmietany i z serowym, intensywnym chipsem, który przyjemnie chrupie i dodaje umami.
+Zdradzę Wam sekret - za najsmaczniejsze i najzdrowsze jedzenie nie zapłacicie w sklepie. Znajdziecie je podczas spaceru! Kto z nas nie zna smaku zupy szczawiowej? Robiła ją Mama? Babcia? Te niepozorne zielone listki to jeden z naszych niedocenianych skarbów. Są kwaśne, orzeźwiające , a zupa z nich przygotowana to jedno z tych dań, po które sięgam co roku, które przypominają mi dzieciństwo. Takie comfort food, ale trochę po mojemu. Zupę podaję w formie kremu, z dodatkiem tradycyjnego jajka, kwaśnej śmietany i z serowym, intensywnym chipsem, który przyjemnie chrupie i dodaje umami.
 
 <!--more-->
 
