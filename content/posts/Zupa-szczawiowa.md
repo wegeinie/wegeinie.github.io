@@ -48,7 +48,7 @@ Czas na szczaw! Użyłam dwóch, dużych bukietów. Jeśli kupujecie to jakieś 
 
 ![Zupa szczawiowa](/img/Zupa-szczawiowa/Zupa-szczawiowa-3.jpg)
 
-🧀Jak zrobić chips? Na rozgrzaną, suchą patelnię wrzucamy garść sera (nada się i parmezan i zwykły żółty. Ja na wierzch kruszę trochę jakiegoś intensywnego, pleśniowego typu gorgonzola) smażymy, aż się zrumieni i zrobi chrupiący, przerzucamy na drugą stronę i znów chwilę podsmażamy. Formujemy go gdy jest jeszcze gorący. Po wystygnięciu zrobi się bardzo kruchy. To jest po prostu pyszne i nadaje się też jako przekąska!
+Jak zrobić chips? Na rozgrzaną, suchą patelnię wrzucamy garść sera (nada się i parmezan i zwykły żółty. Ja na wierzch kruszę trochę jakiegoś intensywnego, pleśniowego typu gorgonzola) smażymy, aż się zrumieni i zrobi chrupiący, przerzucamy na drugą stronę i znów chwilę podsmażamy. Formujemy go gdy jest jeszcze gorący. Po wystygnięciu zrobi się bardzo kruchy. To jest po prostu pyszne i nadaje się też jako przekąska!
 
 Jeśli macie ochotę obejrzeć krótki filmik  przygotowywania ketchupu kliknijcie [tutaj](https://www.instagram.com/reel/Cxpu9SNMXxR/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
 
