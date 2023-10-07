@@ -2,7 +2,7 @@
 title: "Filety z pstrąga z kaszą jaglaną i mizerią"
 date: 2023-06-21
 categories:
-- danie główne
+- dania główne
 tags:
 - ryba
 - ogórki
