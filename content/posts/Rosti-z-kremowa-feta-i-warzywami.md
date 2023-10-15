@@ -45,14 +45,14 @@ Kremowa feta
 Dodatki: 
 - różyczki z połowy brokuła
 - garść orzechów włoskich
-- sczypta płatków chilli
+- szczypta płatków chilli
 
 {{< /alert >}}
 
 ![Rösti z kremową fetą i warzywami](/img/Rosti-z-kremowa-feta-i-warzywami/Rosti-z-kremowa-feta-i-warzywami-2.jpg)
 
 ## Przygotowanie
-Garść pomidorków koktajlowych solimy, pieczemy z dwoma ząbkami czosnku i oliwą z oliwek 30 minut 200 stopni
+Garść pomidorków koktajlowych solimy, pieczemy z dwoma ząbkami czosnku i oliwą z oliwek przez 30 minut w 200 stopniach
 
 Brokuły blanszujemy krótko w osolonej wodzie, osuszamy i podsmażamy na oliwie aż ładnie się zarumienia i nabiorą orzechowego smaku
 
