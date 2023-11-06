@@ -42,6 +42,6 @@ Cukier i wodę zagotowujemy i gdy lekko przestygnie zalewamy słoiczki. Syrop po
 
 Zakręcamy i pasteryzujemy 20 minut, by przetwory mogły poczekać, aż najdzie nas ochota na kubek aromatycznej herbaty
 
-Jeśli macie ochotę obejrzeć krótki filmik  przygotowywania ketchupu kliknijcie [tutaj](https://www.instagram.com/reel/CzQi83HsmzJ/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
+Jeśli macie ochotę obejrzeć krótki filmik  przygotowywania słoiczków kliknijcie [tutaj](https://www.instagram.com/reel/CzQi83HsmzJ/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
 
 ![Cytryny w syropie](/img/Cytryny-w-syropie/Cytryny-w-syropie-4.jpg)
