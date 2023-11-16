@@ -2,7 +2,7 @@
 title: "Passata pomidorowa"
 date: 2023-10-04
 categories:
-- inne
+- przetwory
 tags:
 - pomidory
 - przetwory
