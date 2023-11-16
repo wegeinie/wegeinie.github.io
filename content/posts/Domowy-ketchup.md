@@ -2,7 +2,7 @@
 title: "Domowy ketchup"
 date: 2023-09-19
 categories:
-- inne
+- przetwory
 tags:
 - pomidory
 - przetwory
