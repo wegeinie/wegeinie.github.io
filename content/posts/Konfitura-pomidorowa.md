@@ -2,7 +2,7 @@
 title: "Konfitura pomidorowa"
 date: 2023-10-02
 categories:
-- inne
+- przetwory
 tags:
 - pomidory
 - przetwory
