@@ -11,7 +11,7 @@ tags:
 - Boże Narodzenie
 thumbnailImagePosition: "top"
 ---
-![Kluski z makiem](/img/Kluski-z-makiem/Kluski-z-makiem-1.jpg)
+![Kluski z makiem](/img/Kluski-z-makiem/Kluski-z-makiem-11.jpg)
 
 To chyba najprostszy przepis wigilijny. Makaron z pachnącą masą makową. To przepis z mojego dzieciństwa, robiła go wtedy Babcia, był słodki i rozpływał się w ustach. 
 Można użyć do niego gotowej masy, albo wykonać ją własnoręcznie. Wtedy będzie bogatsza w smaku i już właściwie nic nie trzeba do niej dodawać, by stworzyć to cudowne, regionalne i banalnie proste danie. 
@@ -31,7 +31,7 @@ Można użyć do niego gotowej masy, albo wykonać ją własnoręcznie. Wtedy b�
 
 {{< /alert >}}
 
-![Kluski z makiem](/img/Kluski-z-makiem/Kluski-z-makiem-2.jpg)
+![Kluski z makiem](/img/Kluski-z-makiem/Kluski-z-makiem-22.jpg)
 
 ## Przygotowanie
 Makaron gotujemy i mieszamy z masą makową. Ewentualnie doprawiamy do smaku. Jeśli używacie gotowej masy makowej to dobrze dodać trochę orzechów, bakalii i skórki z cytrusów. Moja jest bardzo bogata, więc już nic nie dodawałam poza odrobiną świeżo startej skórki na wierzch.
