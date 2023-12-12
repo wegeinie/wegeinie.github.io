@@ -31,7 +31,7 @@ Można użyć do niego gotowej masy, albo wykonać ją własnoręcznie. Wtedy b�
 
 {{< /alert >}}
 
-![Kluski z makiem](/img/Kluski-z-makiem/Kluski-z-makiem-1.jpg)
+![Kluski z makiem](/img/Kluski-z-makiem/Kluski-z-makiem-2.jpg)
 
 ## Przygotowanie
 Makaron gotujemy i mieszamy z masą makową. Ewentualnie doprawiamy do smaku. Jeśli używacie gotowej masy makowej to dobrze dodać trochę orzechów, bakalii i skórki z cytrusów. Moja jest bardzo bogata, więc już nic nie dodawałam poza odrobiną świeżo startej skórki na wierzch.
