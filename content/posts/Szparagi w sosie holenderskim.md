@@ -9,7 +9,7 @@ tags:
 - wegetariańskie
 thumbnailImagePosition: "top"
 ---
-![Szparagi w sosie holenderskim](/img/Szparagi w sosie holenderskim/Szparagi w sosie holenderskim-1)
+![Szparagi w sosie holenderskim](/img/Szparagi-w-sosie-holenderskim/Szparagi-w-sosie-holenderskim-1.jpg)
 
 Rozpoczęliście już w Waszych kuchniach sezon na szparagi? Ja już się skusiłam na piękny, zielony pęczek i podałam go w najbardziej klasyczny sposób - z sosem holenderskim.
 Zapiszcie ten przepis, jest prosty, szybki, a smak pieczonych, lekko orzechowych szparagów i puszystego sosu... Oj trudno wyobrazić sobie coś smaczniejszego!
@@ -34,7 +34,7 @@ Sos holenderski:
 - Sól do smaku
 {{< /alert >}}
 
-![Szparagi w sosie holenderskim](/img/Szparagi w sosie holenderskim/Szparagi w sosie holenderskim-2)
+![Szparagi w sosie holenderskim](/img/Szparagi-w-sosie-holenderskim/Szparagi-w-sosie-holenderskim-1.jpg)
 
 ## Przygotowanie
 Szparagi łamiemy, by pozbyć się łykowatych części (te zostawiamy na zupę!) skrapiamy oliwą i lekko solimy. Pieczemy około 10 - 12 minut (w zależności od tego jakie grube mamy szparagi) w 180 stopniach.
@@ -47,5 +47,7 @@ Możecie dodać jeszcze jajko w koszulce, wtedy posiłek będzie bardziej sycąc
 
 
 Jeśli macie ochotę obejrzeć krótki filmik z przygotowywania kliknijcie [tutaj](https://www.instagram.com/reel/C5VJV1ysw9n/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+
+![Szparagi w sosie holenderskim](/img/Szparagi-w-sosie-holenderskim/Szparagi-w-sosie-holenderskim-3.jpg)
 
 ![Szparagi w sosie holenderskim](/img/Szparagi w sosie holenderskim/Szparagi w sosie holenderskim-3)
