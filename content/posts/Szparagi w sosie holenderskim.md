@@ -49,5 +49,3 @@ Możecie dodać jeszcze jajko w koszulce, wtedy posiłek będzie bardziej sycąc
 Jeśli macie ochotę obejrzeć krótki filmik z przygotowywania kliknijcie [tutaj](https://www.instagram.com/reel/C5VJV1ysw9n/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 
 ![Szparagi w sosie holenderskim](/img/Szparagi-w-sosie-holenderskim/Szparagi-w-sosie-holenderskim-3.jpg)
-
-![Szparagi w sosie holenderskim](/img/Szparagi w sosie holenderskim/Szparagi w sosie holenderskim-3)
