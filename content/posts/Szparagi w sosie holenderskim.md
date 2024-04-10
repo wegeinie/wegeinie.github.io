@@ -34,7 +34,7 @@ Sos holenderski:
 - Sól do smaku
 {{< /alert >}}
 
-![Szparagi w sosie holenderskim](/img/Szparagi-w-sosie-holenderskim/Szparagi-w-sosie-holenderskim-1.jpg)
+![Szparagi w sosie holenderskim](/img/Szparagi-w-sosie-holenderskim/Szparagi-w-sosie-holenderskim-2.jpg)
 
 ## Przygotowanie
 Szparagi łamiemy, by pozbyć się łykowatych części (te zostawiamy na zupę!) skrapiamy oliwą i lekko solimy. Pieczemy około 10 - 12 minut (w zależności od tego jakie grube mamy szparagi) w 180 stopniach.
