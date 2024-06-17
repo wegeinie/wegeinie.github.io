@@ -9,7 +9,7 @@ tags:
 - ryż
 thumbnailImagePosition: "top"
 ---
-![Misa romaitości w sosie jogurtowo - miętowym](/img/Misa-rozmaitosci-w-sosie-jogurtowo-mietowym/Misa-rozmaitosci-w-sosie-jogurtowo-mietowym-1.jpg.jpg)
+![Misa romaitości w sosie jogurtowo - miętowym](/img/Misa-rozmaitosci-w-sosie-jogurtowo-mietowym/Misa-rozmaitosci-w-sosie-jogurtowo-mietowym-1.jpg)
 
 Lekki, świeży, zdrowy obiad, który pomoże wyczyścić lodówkę z resztek przed urlopem? Stawiam na Buddha Bowl! Nienawidzę marnować jedzenia, więc przed planowanym wyjazdem staram się gotować z tego co mam pod ręką. Ogórek, marchewka, bardzo dojrzała papaja, kilka jajek. Tym razem micha wyszła mi tak pyszna, że muszę podzielić się z Wami przepisem!
 <!--more-->
