@@ -47,10 +47,11 @@ Z kapusty wykrawamy plastry grubości około 2 cm. Na patelnię wlewamy oliwę, 
 Taką kapustę możesz też przygotować na grillu.
 
 
-Do naczynia blendera przekładamy fasolę (jeśli używacie gotowanej to niech będzie lekko ciepła - hummus wyjdzie gładszy. Możecie też dorzucić 2-3 kostki lodu. To drugi świetny sposób) wraz z częścią wody z gotowania (tak z 1/3 szklanki, ale zawsze możecie dolać, by uzyskać fajną konsystencję). Dorzucamy rozgnieciony czosnek, oliwę, tahini, sok , cytryny i solimy do smaku. Blendujemy
+Do naczynia blendera przekładamy fasolę (jeśli używacie gotowanej to niech będzie lekko ciepła - hummus wyjdzie gładszy. Możecie też dorzucić 2-3 kostki lodu. To drugi świetny sposób) wraz z częścią wody z gotowania (tak z 1/3 szklanki, ale zawsze możecie dolać, by uzyskać fajną konsystencję). Dorzucamy rozgnieciony czosnek, oliwę, tahini, sok , cytryny i solimy do smaku. Blendujemy.
 
 
 Na talerz nakładamy 3-4 łyżki pasty, na to układamy kapustkę. Warto skropić ją świeżą oliwą i posypać uprażonymi orzeszkami ziemnymi. Ja dodatkowo obsypałam steki płatkami chilli (papryki gochugaru), dodałam kwiaty szczypiorku i młode listki nasturcji, które dodały daniu świeżego i lekko pikantnego smaku.
+
 
 
 Jeśli macie ochotę obejrzeć krótki filmik z przygotowywania kliknijcie [tutaj](https://www.instagram.com/reel/C8T8ps8Io0o/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
